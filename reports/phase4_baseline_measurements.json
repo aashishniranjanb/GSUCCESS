@@ -1,0 +1,28 @@
+{
+  "mission_metrics": {
+    "total_study_sessions": 3,
+    "total_session_items": 32,
+    "completed_session_items": 0,
+    "item_completion_rate_percent": 0.0
+  },
+  "learner_performance_baseline": {
+    "total_recorded_attempts": 7,
+    "baseline_accuracy_percent": 57.1,
+    "avg_response_time_sec": 12.91,
+    "avg_confidence_level": 4.14,
+    "active_misconceptions": 0,
+    "recurring_misconceptions": 0,
+    "repaired_misconceptions": 0
+  },
+  "fsrs_memory_baseline": {
+    "total_active_cards": 11,
+    "mean_stability_days": 528.32,
+    "mean_difficulty": 3.38
+  },
+  "question_quality_baseline": {
+    "total_baseline_questions": 229,
+    "published_questions": 229,
+    "quarantined_unresolved_questions": 3,
+    "content_verification_rate_percent": 100.0
+  }
+}

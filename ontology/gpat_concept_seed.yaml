@@ -1,0 +1,790 @@
+# gpat_concept_seed.yaml
+# High-Yield Pharmacology Ontology Seed for GPAT / B.Pharm Preparation
+# Coverage: General Pharmacology, Autonomic Nervous System (ANS), Cardiovascular System (CVS), Central Nervous System (CNS)
+
+ontology_version: "0.2.0"
+subject: "Pharmacology"
+
+concepts:
+  # ============================================================
+  # GENERAL PHARMACOLOGY - PHARMACOKINETICS
+  # ============================================================
+  - id: pk_absorption
+    name: "Drug Absorption"
+    subject_id: pharmacology
+    domain_id: general_pharmacology
+    learning_objective: "EXPLAIN"
+    importance_score: 9
+    difficulty: 6
+    status: "active"
+    aliases:
+      - "Absorption"
+      - "Gastrointestinal Absorption"
+    prerequisites: []
+    common_misconceptions:
+      - "Ionized drugs penetrate lipid membranes faster than non-ionized drugs"
+    exam_relevance: "High"
+
+  - id: pk_bioavailability
+    name: "Bioavailability"
+    subject_id: pharmacology
+    domain_id: general_pharmacology
+    learning_objective: "CALCULATE"
+    importance_score: 10
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "AUC"
+      - "Fraction Absorbed"
+      - "First Pass Effect"
+    prerequisites:
+      - "pk_absorption"
+    common_misconceptions:
+      - "100% bioavailability means instantaneous drug action"
+    exam_relevance: "Very High"
+
+  - id: pk_volume_of_distribution
+    name: "Volume of Distribution"
+    subject_id: pharmacology
+    domain_id: general_pharmacology
+    learning_objective: "CALCULATE"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Apparent Volume of Distribution"
+      - "Vd"
+    prerequisites:
+      - "pk_absorption"
+    common_misconceptions:
+      - "Vd represents a true anatomical fluid space"
+    exam_relevance: "Very High"
+
+  - id: pk_plasma_protein_binding
+    name: "Plasma Protein Binding"
+    subject_id: pharmacology
+    domain_id: general_pharmacology
+    learning_objective: "EXPLAIN"
+    importance_score: 8
+    difficulty: 6
+    status: "active"
+    aliases:
+      - "Albumin Binding"
+      - "Bound Fraction"
+    prerequisites: []
+    common_misconceptions:
+      - "Bound drug is biologically active and filterable by glomerulus"
+    exam_relevance: "High"
+
+  - id: pk_biotransformation
+    name: "Biotransformation"
+    subject_id: pharmacology
+    domain_id: general_pharmacology
+    learning_objective: "CLASSIFY"
+    importance_score: 10
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "Drug Metabolism"
+      - "Phase I and Phase II Reactions"
+      - "Cytochrome P450"
+    prerequisites: []
+    common_misconceptions:
+      - "Phase II reactions always follow Phase I reactions"
+    exam_relevance: "Very High"
+
+  - id: pk_clearance_and_elimination
+    name: "Clearance and Elimination"
+    subject_id: pharmacology
+    domain_id: general_pharmacology
+    learning_objective: "CALCULATE"
+    importance_score: 9
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "Half-Life"
+      - "t1/2"
+      - "First Order Elimination"
+      - "Zero Order Elimination"
+    prerequisites:
+      - "pk_volume_of_distribution"
+    common_misconceptions:
+      - "Zero order kinetics means a constant fraction is eliminated per unit time"
+    exam_relevance: "Very High"
+
+  # ============================================================
+  # GENERAL PHARMACOLOGY - PHARMACODYNAMICS
+  # ============================================================
+  - id: pd_receptor_types
+    name: "Receptor Types and Signal Transduction"
+    subject_id: pharmacology
+    domain_id: general_pharmacology
+    learning_objective: "CLASSIFY"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "GPCR"
+      - "G-protein coupled receptors"
+      - "Ion channel receptors"
+      - "Nuclear receptors"
+      - "Enzyme linked receptors"
+    prerequisites: []
+    common_misconceptions:
+      - "All receptors reside on the cell surface"
+    exam_relevance: "Very High"
+
+  - id: pd_agonism_and_efficacy
+    name: "Agonism, Affinity and Efficacy"
+    subject_id: pharmacology
+    domain_id: general_pharmacology
+    learning_objective: "COMPARE"
+    importance_score: 10
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "Full Agonist"
+      - "Partial Agonist"
+      - "Inverse Agonist"
+      - "Intrinsic Activity"
+    prerequisites:
+      - "pd_receptor_types"
+    common_misconceptions:
+      - "Affinity and efficacy are identical properties"
+    exam_relevance: "Very High"
+
+  - id: pd_antagonism
+    name: "Receptor Antagonism"
+    subject_id: pharmacology
+    domain_id: general_pharmacology
+    learning_objective: "COMPARE"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Competitive Antagonism"
+      - "Noncompetitive Antagonism"
+      - "Allosteric Antagonism"
+    prerequisites:
+      - "pd_agonism_and_efficacy"
+    common_misconceptions:
+      - "Competitive antagonists reduce Emax of the agonist"
+    exam_relevance: "Very High"
+
+  - id: pd_therapeutic_index
+    name: "Therapeutic Index and Margin of Safety"
+    subject_id: pharmacology
+    domain_id: general_pharmacology
+    learning_objective: "CALCULATE"
+    importance_score: 9
+    difficulty: 6
+    status: "active"
+    aliases:
+      - "Therapeutic Window"
+      - "LD50/ED50"
+      - "Certain Safety Factor"
+    prerequisites: []
+    common_misconceptions:
+      - "A higher therapeutic index means higher toxicity"
+    exam_relevance: "High"
+
+  # ============================================================
+  # AUTONOMIC NERVOUS SYSTEM - CHOLINERGIC SYSTEM
+  # ============================================================
+  - id: ans_cholinergic_transmission
+    name: "Cholinergic Neurotransmission"
+    subject_id: pharmacology
+    domain_id: autonomic_pharmacology
+    learning_objective: "EXPLAIN"
+    importance_score: 9
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "Acetylcholine Synthesis and Release"
+      - "Choline Acetyltransferase"
+      - "Acetylcholinesterase"
+    prerequisites: []
+    common_misconceptions:
+      - "Acetylcholine action is terminated predominantly by reuptake into nerve terminals"
+    exam_relevance: "High"
+
+  - id: ans_cholinergic_receptors
+    name: "Cholinergic Receptors"
+    subject_id: pharmacology
+    domain_id: autonomic_pharmacology
+    learning_objective: "CLASSIFY"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Muscarinic Receptors"
+      - "Nicotinic Receptors"
+      - "M1 M2 M3 Receptors"
+      - "Nm and Nn Receptors"
+    prerequisites:
+      - "ans_cholinergic_transmission"
+    common_misconceptions:
+      - "M2 receptors are located mainly in glands rather than myocardium"
+    exam_relevance: "Very High"
+
+  - id: ans_cholinergic_agonists
+    name: "Cholinomimetic Agonists"
+    subject_id: pharmacology
+    domain_id: autonomic_pharmacology
+    learning_objective: "APPLY"
+    importance_score: 9
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "Pilocarpine"
+      - "Bethanechol"
+      - "Methacholine"
+      - "Carbachol"
+    prerequisites:
+      - "ans_cholinergic_receptors"
+    common_misconceptions:
+      - "Pilocarpine causes mydriasis rather than miosis"
+    exam_relevance: "Very High"
+
+  - id: ans_anticholinesterases
+    name: "Anticholinesterase Agents"
+    subject_id: pharmacology
+    domain_id: autonomic_pharmacology
+    learning_objective: "COMPARE"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Physostigmine"
+      - "Neostigmine"
+      - "Pyridostigmine"
+      - "Edrophonium"
+      - "Organophosphates"
+      - "Reversible Cholinesterase Inhibitors"
+    prerequisites:
+      - "ans_cholinergic_transmission"
+    common_misconceptions:
+      - "Neostigmine easily crosses the blood-brain barrier like physostigmine"
+    exam_relevance: "Very High"
+
+  - id: ans_antimuscarinics
+    name: "Muscarinic Receptor Antagonists"
+    subject_id: pharmacology
+    domain_id: autonomic_pharmacology
+    learning_objective: "APPLY"
+    importance_score: 10
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "Atropine"
+      - "Scopolamine"
+      - "Hyoscine"
+      - "Ipratropium"
+      - "Tiotropium"
+      - "Glycopyrrolate"
+      - "Anticholinergic Drugs"
+    prerequisites:
+      - "ans_cholinergic_receptors"
+    common_misconceptions:
+      - "Atropine is indicated in narrow-angle glaucoma"
+    exam_relevance: "Very High"
+
+  - id: ans_organophosphate_poisoning
+    name: "Organophosphate Poisoning and Antidotes"
+    subject_id: pharmacology
+    domain_id: autonomic_pharmacology
+    learning_objective: "SOLVE_CASE"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Pralidoxime"
+      - "PAM"
+      - "Cholinesterase Reactivator"
+      - "DUMBELS"
+    prerequisites:
+      - "ans_anticholinesterases"
+      - "ans_antimuscarinics"
+    common_misconceptions:
+      - "Pralidoxime can reverse aged organophosphate-enzyme complex"
+    exam_relevance: "Very High"
+
+  # ============================================================
+  # AUTONOMIC NERVOUS SYSTEM - ADRENERGIC SYSTEM
+  # ============================================================
+  - id: ans_adrenergic_transmission
+    name: "Adrenergic Neurotransmission"
+    subject_id: pharmacology
+    domain_id: autonomic_pharmacology
+    learning_objective: "EXPLAIN"
+    importance_score: 9
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "Catecholamine Synthesis"
+      - "Tyrosine Hydroxylase"
+      - "COMT"
+      - "MAO"
+    prerequisites: []
+    common_misconceptions:
+      - "COMT is the main mechanism terminating norepinephrine action at sympathetic junctions"
+    exam_relevance: "High"
+
+  - id: ans_adrenergic_receptors
+    name: "Adrenergic Receptors"
+    subject_id: pharmacology
+    domain_id: autonomic_pharmacology
+    learning_objective: "CLASSIFY"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Alpha Receptors"
+      - "Beta Receptors"
+      - "Alpha-1"
+      - "Alpha-2"
+      - "Beta-1"
+      - "Beta-2"
+      - "Beta-3"
+    prerequisites:
+      - "ans_adrenergic_transmission"
+    common_misconceptions:
+      - "Alpha-2 receptors are excitatory postsynaptic receptors"
+    exam_relevance: "Very High"
+
+  - id: ans_sympathomimetics
+    name: "Sympathomimetic Agonists"
+    subject_id: pharmacology
+    domain_id: autonomic_pharmacology
+    learning_objective: "APPLY"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Epinephrine"
+      - "Adrenaline"
+      - "Norepinephrine"
+      - "Noradrenaline"
+      - "Dopamine"
+      - "Dobutamine"
+      - "Salbutamol"
+      - "Clonidine"
+      - "Phenylephrine"
+    prerequisites:
+      - "ans_adrenergic_receptors"
+    common_misconceptions:
+      - "Norepinephrine stimulates beta-2 receptors as strongly as epinephrine"
+    exam_relevance: "Very High"
+
+  - id: ans_alpha_blockers
+    name: "Alpha-Adrenergic Antagonists"
+    subject_id: pharmacology
+    domain_id: autonomic_pharmacology
+    learning_objective: "COMPARE"
+    importance_score: 9
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "Phentolamine"
+      - "Phenoxybenzamine"
+      - "Prazosin"
+      - "Tamsulosin"
+      - "Doxazosin"
+    prerequisites:
+      - "ans_adrenergic_receptors"
+    common_misconceptions:
+      - "Prazosin produces severe reflex tachycardia like nonselective alpha blockers"
+    exam_relevance: "High"
+
+  - id: ans_beta_blockers
+    name: "Beta-Adrenergic Antagonists"
+    subject_id: pharmacology
+    domain_id: autonomic_pharmacology
+    learning_objective: "COMPARE"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Propranolol"
+      - "Atenolol"
+      - "Metoprolol"
+      - "Carvedilol"
+      - "Timolol"
+      - "Labetalol"
+      - "ISA"
+      - "Cardioselective Beta Blockers"
+    prerequisites:
+      - "ans_adrenergic_receptors"
+    common_misconceptions:
+      - "Propranolol is safe in asthmatic patients"
+    exam_relevance: "Very High"
+
+  # ============================================================
+  # CARDIOVASCULAR SYSTEM (CVS)
+  # ============================================================
+  - id: cvs_renin_angiotensin_system
+    name: "Renin-Angiotensin-Aldosterone System (RAAS)"
+    subject_id: pharmacology
+    domain_id: cardiovascular_pharmacology
+    learning_objective: "EXPLAIN"
+    importance_score: 10
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "RAAS"
+      - "Renin"
+      - "Angiotensin II"
+      - "Aldosterone"
+    prerequisites: []
+    common_misconceptions:
+      - "ACE is only found in the kidneys"
+    exam_relevance: "Very High"
+
+  - id: cvs_ace_inhibitors_and_arbs
+    name: "ACE Inhibitors and ARBs"
+    subject_id: pharmacology
+    domain_id: cardiovascular_pharmacology
+    learning_objective: "COMPARE"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Captopril"
+      - "Enalapril"
+      - "Ramipril"
+      - "Lisinopril"
+      - "Losartan"
+      - "Telmisartan"
+      - "Valsartan"
+      - "AT1 Antagonists"
+    prerequisites:
+      - "cvs_renin_angiotensin_system"
+    common_misconceptions:
+      - "ARBs cause dry cough as frequently as ACE inhibitors"
+    exam_relevance: "Very High"
+
+  - id: cvs_calcium_channel_blockers
+    name: "Calcium Channel Blockers"
+    subject_id: pharmacology
+    domain_id: cardiovascular_pharmacology
+    learning_objective: "CLASSIFY"
+    importance_score: 10
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "CCBs"
+      - "Verapamil"
+      - "Diltiazem"
+      - "Amlodipine"
+      - "Nifedipine"
+      - "Dihydropyridines"
+    prerequisites: []
+    common_misconceptions:
+      - "Amlodipine exerts strong negative inotropic effects on the heart"
+    exam_relevance: "Very High"
+
+  - id: cvs_diuretics
+    name: "Diuretics"
+    subject_id: pharmacology
+    domain_id: cardiovascular_pharmacology
+    learning_objective: "CLASSIFY"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Furosemide"
+      - "Torsemide"
+      - "Hydrochlorothiazide"
+      - "Spironolactone"
+      - "Acetazolamide"
+      - "Mannitol"
+      - "Loop Diuretics"
+      - "Thiazides"
+      - "Potassium Sparing Diuretics"
+    prerequisites: []
+    common_misconceptions:
+      - "Thiazides act on the thick ascending limb of the loop of Henle"
+    exam_relevance: "Very High"
+
+  - id: cvs_cardiac_glycosides
+    name: "Cardiac Glycosides and Heart Failure"
+    subject_id: pharmacology
+    domain_id: cardiovascular_pharmacology
+    learning_objective: "EXPLAIN"
+    importance_score: 10
+    difficulty: 9
+    status: "active"
+    aliases:
+      - "Digoxin"
+      - "Digitoxin"
+      - "Na+/K+ ATPase Inhibitor"
+      - "Inotropic Agents"
+    prerequisites: []
+    common_misconceptions:
+      - "Hypokalemia decreases digoxin toxicity"
+    exam_relevance: "Very High"
+
+  - id: cvs_antianginal_nitrates
+    name: "Organic Nitrates and Antianginals"
+    subject_id: pharmacology
+    domain_id: cardiovascular_pharmacology
+    learning_objective: "APPLY"
+    importance_score: 9
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "Nitroglycerin"
+      - "Isosorbide Dinitrate"
+      - "Isosorbide Mononitrate"
+      - "NO Donors"
+      - "Coronary Vasodilators"
+    prerequisites: []
+    common_misconceptions:
+      - "Nitrates relieve angina by primarily dilating coronary arterioles rather than venodilation reducing preload"
+    exam_relevance: "High"
+
+  - id: cvs_antiarrhythmics
+    name: "Antiarrhythmic Drugs"
+    subject_id: pharmacology
+    domain_id: cardiovascular_pharmacology
+    learning_objective: "CLASSIFY"
+    importance_score: 10
+    difficulty: 9
+    status: "active"
+    aliases:
+      - "Vaughan Williams Classification"
+      - "Quinidine"
+      - "Lidocaine"
+      - "Flecainide"
+      - "Amiodarone"
+      - "Class I II III IV Antiarrhythmics"
+    prerequisites: []
+    common_misconceptions:
+      - "Lidocaine is effective for both atrial and ventricular arrhythmias"
+    exam_relevance: "Very High"
+
+  # ============================================================
+  # CENTRAL NERVOUS SYSTEM (CNS)
+  # ============================================================
+  - id: cns_gaba_sedative_hypnotics
+    name: "Sedative-Hypnotics and Anxiolytics"
+    subject_id: pharmacology
+    domain_id: cns_pharmacology
+    learning_objective: "COMPARE"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Benzodiazepines"
+      - "Barbiturates"
+      - "Diazepam"
+      - "Alprazolam"
+      - "Zolpidem"
+      - "Flumazenil"
+      - "GABA-A Modulators"
+    prerequisites: []
+    common_misconceptions:
+      - "Barbiturates require GABA to open chloride channels at high doses"
+    exam_relevance: "Very High"
+
+  - id: cns_antiepileptics
+    name: "Antiepileptic Drugs"
+    subject_id: pharmacology
+    domain_id: cns_pharmacology
+    learning_objective: "APPLY"
+    importance_score: 10
+    difficulty: 9
+    status: "active"
+    aliases:
+      - "Phenytoin"
+      - "Carbamazepine"
+      - "Sodium Valproate"
+      - "Ethosuximide"
+      - "Lamotrigine"
+      - "Anticonvulsants"
+    prerequisites: []
+    common_misconceptions:
+      - "Phenytoin follows first-order kinetics across its entire therapeutic plasma range"
+    exam_relevance: "Very High"
+
+  - id: cns_antidepressants
+    name: "Antidepressants"
+    subject_id: pharmacology
+    domain_id: cns_pharmacology
+    learning_objective: "CLASSIFY"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "SSRIs"
+      - "Fluoxetine"
+      - "Sertraline"
+      - "Tricyclic Antidepressants"
+      - "Amitriptyline"
+      - "Imipramine"
+      - "MAO Inhibitors"
+    prerequisites: []
+    common_misconceptions:
+      - "SSRIs produce immediate elevation of mood within hours of administration"
+    exam_relevance: "Very High"
+
+  - id: cns_antipsychotics
+    name: "Antipsychotic Drugs"
+    subject_id: pharmacology
+    domain_id: cns_pharmacology
+    learning_objective: "COMPARE"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Neuroleptics"
+      - "Chlorpromazine"
+      - "Haloperidol"
+      - "Clozapine"
+      - "Risperidone"
+      - "Extrapyramidal Symptoms"
+    prerequisites: []
+    common_misconceptions:
+      - "Atypical antipsychotics have a higher risk of extrapyramidal motor side effects than typicals"
+    exam_relevance: "Very High"
+
+  - id: cns_antiparkinsonian
+    name: "Antiparkinsonian Drugs"
+    subject_id: pharmacology
+    domain_id: cns_pharmacology
+    learning_objective: "APPLY"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Levodopa"
+      - "Carbidopa"
+      - "Dopamine Precursor"
+      - "DOPA Decarboxylase Inhibitor"
+      - "Bromocriptine"
+      - "Amantadine"
+      - "Selegiline"
+    prerequisites: []
+    common_misconceptions:
+      - "Dopamine itself can be administered intravenously to treat Parkinsonism"
+    exam_relevance: "Very High"
+
+  - id: cns_opioid_analgesics
+    name: "Opioid Analgesics and Antagonists"
+    subject_id: pharmacology
+    domain_id: cns_pharmacology
+    learning_objective: "EXPLAIN"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Morphine"
+      - "Fentanyl"
+      - "Codeine"
+      - "Pethidine"
+      - "Naloxone"
+      - "Naltrexone"
+      - "Mu Opioid Receptors"
+    prerequisites: []
+    common_misconceptions:
+      - "Naloxone has oral bioavailability equal to intravenous route"
+    exam_relevance: "Very High"
+
+  # ============================================================
+  # AUTONOMIC NERVOUS SYSTEM - ADRENERGIC
+  # ============================================================
+  - id: ans_adrenergic_agonists
+    name: "Adrenergic Agonists & Sympathomimetics"
+    subject_id: pharmacology
+    domain_id: autonomic_nervous_system
+    learning_objective: "CLASSIFY"
+    importance_score: 10
+    difficulty: 7
+    status: "active"
+    aliases:
+      - "Adrenaline"
+      - "Epinephrine"
+      - "Noradrenaline"
+      - "Norepinephrine"
+      - "Isoprenaline"
+      - "Salbutamol"
+      - "Dobutamine"
+      - "Phenylephrine"
+      - "Alpha and Beta Receptors"
+    prerequisites: []
+    common_misconceptions:
+      - "Adrenaline produces only vasoconstriction across all vascular beds"
+    exam_relevance: "Very High"
+
+  - id: ans_adrenergic_antagonists
+    name: "Anti-Adrenergic Drugs & Alpha/Beta Blockers"
+    subject_id: pharmacology
+    domain_id: autonomic_nervous_system
+    learning_objective: "APPLY"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Prazosin"
+      - "Phenoxybenzamine"
+      - "Phentolamine"
+      - "Propranolol"
+      - "Atenolol"
+      - "Metoprolol"
+      - "Dale Vasomotor Reversal"
+    prerequisites:
+      - "ans_adrenergic_agonists"
+    common_misconceptions:
+      - "Dale's vasomotor reversal is seen with noradrenaline following alpha blockade"
+    exam_relevance: "Very High"
+
+  # ============================================================
+  # ENDOCRINE PHARMACOLOGY - THYROID & DIABETES
+  # ============================================================
+  - id: endo_thyroid_drugs
+    name: "Thyroid Hormones & Antithyroid Drugs"
+    subject_id: pharmacology
+    domain_id: endocrine_pharmacology
+    learning_objective: "EXPLAIN"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Thyroxine"
+      - "Levothyroxine"
+      - "T3"
+      - "T4"
+      - "Propylthiouracil"
+      - "Methimazole"
+      - "Carbimazole"
+      - "Thyroperoxidase"
+      - "Wolff-Chaikoff Effect"
+    prerequisites: []
+    common_misconceptions:
+      - "Carbimazole acts directly without undergoing conversion to methimazole"
+    exam_relevance: "Very High"
+
+  - id: endo_antidiabetic_drugs
+    name: "Insulin & Oral Hypoglycemic Agents"
+    subject_id: pharmacology
+    domain_id: endocrine_pharmacology
+    learning_objective: "APPLY"
+    importance_score: 10
+    difficulty: 8
+    status: "active"
+    aliases:
+      - "Insulin"
+      - "Regular Insulin"
+      - "NPH Insulin"
+      - "Metformin"
+      - "Glipizide"
+      - "Glibenclamide"
+      - "Sulfonylureas"
+      - "Biguanides"
+      - "DPP-4 Inhibitors"
+      - "SGLT2 Inhibitors"
+    prerequisites: []
+    common_misconceptions:
+      - "Metformin stimulates pancreatic beta cells to release more insulin"
+    exam_relevance: "Very High"
+

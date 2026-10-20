@@ -1,0 +1,2082 @@
+[
+  {
+    "block_id": "doc_pharmacology_complete_p1_00000",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p2_00001",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p2_00002",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p3_00003",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p3_00004",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p3_00005",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p3_00006",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p3_00007",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p4_00008",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p4_00009",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p4_00010",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p4_00011",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p5_00012",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p5_00013",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p5_00014",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p5_00015",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p5_00016",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p6_00017",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p6_00018",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p6_00019",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p6_00020",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p6_00021",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p7_00022",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p7_00023",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p7_00024",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p7_00025",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p8_00026",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p8_00027",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p8_00028",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p8_00029",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p9_00030",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p9_00031",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p9_00032",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p9_00033",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p10_00034",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p10_00035",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p10_00036",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p10_00037",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p11_00038",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p11_00039",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p11_00040",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p12_00041",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p12_00042",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p13_00043",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p13_00044",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p14_00045",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p16_00000",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p16_00001",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p16_00002",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p16_00003",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p16_00004",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p17_00005",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p18_00006",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p18_00007",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p19_00008",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p19_00009",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p19_00010",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p20_00011",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p20_00012",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p20_00013",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p20_00014",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p21_00015",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p21_00016",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p22_00017",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p22_00018",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p24_00019",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p24_00020",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p25_00000",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p25_00001",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p25_00002",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p26_00003",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p26_00004",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p27_00005",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p28_00006",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p28_00007",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p28_00008",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p28_00009",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p29_00010",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p29_00011",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p29_00012",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p29_00013",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p31_00014",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p31_00015",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p31_00016",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p33_00017",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p33_00018",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p33_00019",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p34_00020",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p34_00021",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p34_00022",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p34_00023",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p35_00024",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p35_00025",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p36_00026",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p38_00027",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p38_00028",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p39_00029",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p39_00030",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p39_00031",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p39_00032",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p39_00033",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p40_00034",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p40_00035",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p40_00036",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p41_00037",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p41_00038",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p41_00039",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p79_00000",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p79_00001",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p80_00002",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p81_00003",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p82_00004",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p82_00005",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p83_00006",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p84_00007",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p85_00008",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p86_00009",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p86_00010",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p87_00011",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p87_00012",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p87_00013",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p87_00014",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p87_00015",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p88_00016",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p88_00017",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p88_00018",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p88_00019",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p88_00020",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p89_00021",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p89_00022",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p89_00023",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p90_00024",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p90_00025",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p90_00026",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p91_00027",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p91_00028",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p91_00029",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p91_00030",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p92_00031",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p92_00032",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p92_00033",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p93_00034",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p93_00035",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p93_00036",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p94_00037",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p94_00038",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p94_00039",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p95_00040",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p95_00041",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p95_00042",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p95_00043",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p95_00044",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p96_00045",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p96_00046",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p96_00047",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_pharmacology_complete_p96_00048",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p54_00000",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p54_00001",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p54_00002",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p54_00003",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p54_00004",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p54_00005",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p55_00006",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p55_00007",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p56_00008",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p56_00009",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p56_00010",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p57_00011",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p57_00012",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p57_00013",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p57_00014",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p57_00015",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p57_00016",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p57_00017",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p58_00018",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p58_00019",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p58_00020",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p58_00021",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p59_00022",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p59_00023",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p59_00024",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p59_00025",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p60_00026",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p60_00027",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p60_00028",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p60_00029",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p60_00030",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p61_00031",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p61_00032",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p61_00033",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p61_00034",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p61_00035",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p62_00036",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p62_00037",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p62_00038",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p63_00039",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p63_00040",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p63_00041",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p63_00042",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p63_00043",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p63_00044",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p63_00045",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p64_00046",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p65_00047",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p65_00048",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p65_00049",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p65_00050",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p130_00000",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p130_00001",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p130_00002",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p130_00003",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p131_00004",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p131_00005",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p131_00006",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p131_00007",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p132_00008",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p132_00009",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p132_00010",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p132_00011",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p133_00012",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p133_00013",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p133_00014",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p133_00015",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p133_00016",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p134_00017",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p134_00018",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p134_00019",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p134_00020",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p134_00021",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p134_00022",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p134_00023",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p135_00024",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p135_00025",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p135_00026",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p135_00027",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p135_00028",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p136_00029",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p136_00030",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p136_00031",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p136_00032",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p136_00033",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p136_00034",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p137_00035",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p137_00036",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p137_00037",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p137_00038",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p137_00039",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p137_00040",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p137_00041",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p138_00042",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p138_00043",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p138_00044",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p138_00045",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p139_00046",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p139_00047",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p139_00048",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p139_00049",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p139_00050",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p139_00051",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p140_00052",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p140_00053",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p140_00054",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p140_00055",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p140_00000",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p140_00001",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p140_00002",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p140_00003",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p140_00004",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p141_00005",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p141_00006",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p141_00007",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p141_00008",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p142_00009",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p142_00010",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p142_00011",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p142_00012",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p142_00013",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p143_00014",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p144_00015",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p144_00016",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p144_00017",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p145_00018",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p145_00019",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p146_00020",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p146_00021",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p146_00022",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p146_00023",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p147_00024",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p147_00025",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p147_00026",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p147_00027",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p148_00028",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p148_00029",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p148_00030",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p148_00031",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p149_00032",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p149_00033",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p149_00034",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p149_00035",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p149_00036",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p150_00037",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p150_00038",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p150_00039",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p150_00040",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p150_00041",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p150_00042",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p150_00043",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p150_00044",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p150_00045",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p251_00000",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p251_00001",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p251_00002",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p252_00003",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p252_00004",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p252_00005",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p252_00006",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p252_00007",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p253_00008",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p253_00009",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p253_00010",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p254_00011",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p254_00012",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p254_00013",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p254_00014",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p254_00015",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p254_00016",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p254_00017",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p254_00018",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p255_00019",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p255_00020",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p255_00021",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p255_00022",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p255_00023",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p255_00024",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p256_00025",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p256_00026",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p256_00027",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p256_00028",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p256_00029",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p256_00030",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p257_00031",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p257_00032",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p257_00033",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p257_00034",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p257_00035",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p257_00036",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p257_00037",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p258_00038",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p258_00039",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p258_00040",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p258_00041",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p258_00042",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p258_00043",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p259_00044",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p259_00045",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p259_00046",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p259_00047",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p259_00048",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p259_00049",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p260_00050",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p260_00051",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p260_00052",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p260_00053",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p260_00054",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p260_00055",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p260_00056",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p274_00000",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p275_00001",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p275_00002",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p275_00003",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p276_00004",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p276_00005",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p276_00006",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p276_00007",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p277_00008",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p277_00009",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p277_00010",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p277_00011",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p277_00012",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p278_00013",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p278_00014",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p278_00015",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p278_00016",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p278_00017",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p279_00018",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p279_00019",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p279_00020",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p280_00021",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p280_00022",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p280_00023",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p280_00024",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p281_00025",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p281_00026",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p281_00027",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p281_00028",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p281_00029",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p281_00030",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p281_00031",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p282_00032",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p282_00033",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p282_00034",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p282_00035",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p282_00036",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p283_00037",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p283_00038",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p283_00039",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p283_00040",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p283_00041",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p284_00042",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p284_00043",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p284_00044",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p284_00045",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p284_00046",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p285_00047",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p285_00048",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "block_id": "doc_kd_tripathi_p285_00049",
+    "dimensions": 384,
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+]

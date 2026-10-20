@@ -1,0 +1,18 @@
+{
+  "gpat_knowledge": {
+    "integrity": "ok",
+    "fk_errors": [],
+    "student_attempts": 7,
+    "fsrs_cards": 11,
+    "learning_events": 10,
+    "study_sessions": 3,
+    "synced_client_events": 3
+  },
+  "gpat_baseline": {
+    "integrity": "ok",
+    "fk_errors": [],
+    "baseline_questions": 229,
+    "baseline_chunks": 505,
+    "baseline_topics": 221
+  }
+}

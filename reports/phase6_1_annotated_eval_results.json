@@ -1,0 +1,822 @@
+[
+  {
+    "question_id": "pyq_gpat_2024_088",
+    "pyq_year": 2024,
+    "original_q_number": 88,
+    "stem_preview": "The visible coloured ring of the eye is called",
+    "ground_truth_subject": "other_subjects",
+    "predicted_subject": "pharmaceutical_chemistry",
+    "predicted_topic": "pharmaceutical_chemistry__pharmaceutical_analysis__uv_visible_spectroscopy",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "visible"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2026_061",
+    "pyq_year": 2026,
+    "original_q_number": 61,
+    "stem_preview": "Of the four asymmetric centers in quinine, the absolute configuration around C-8",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmacognosy",
+    "predicted_topic": "pharmacognosy__pharmacognosy__alkaloids",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "quinine"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2026_013",
+    "pyq_year": 2026,
+    "original_q_number": 13,
+    "stem_preview": "WHO recommends the use of chromatographic tech- niques in herbal medicines mainl",
+    "ground_truth_subject": "pharmacognosy",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutics__ayurvedic_system_of_medicine",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "medicine"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2025_019",
+    "pyq_year": 2025,
+    "original_q_number": 19,
+    "stem_preview": "n-Butane exists in how many numbers of conforma \u0002 tional isomers:",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 0,
+    "matched_terms": [],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2025_003",
+    "pyq_year": 2025,
+    "original_q_number": 3,
+    "stem_preview": "Which is an example of continuous shelf moving bed dryer:",
+    "ground_truth_subject": "pharmaceutics",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__distillation",
+    "predicted_decision": "CONFIDENT_MATCH",
+    "confidence_score": 6,
+    "matched_terms": [
+      "tray dryer",
+      "spray dryer"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2026_118",
+    "pyq_year": 2026,
+    "original_q_number": 118,
+    "stem_preview": "The Central Drugs Standard Control Organization (CDSCO) in India functions under",
+    "ground_truth_subject": "other_subjects",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutics__crude_extract",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "cdsco"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2026_075",
+    "pyq_year": 2026,
+    "original_q_number": 75,
+    "stem_preview": "Nalidixic acid, a synthetic antibacterial agent, belongs to which of the followi",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutical_chemistry",
+    "predicted_topic": "pharmaceutical_chemistry__organic_chemistry__heterocyclic_chemistry",
+    "predicted_decision": "CONFIDENT_MATCH",
+    "confidence_score": 6,
+    "matched_terms": [
+      "pyrimidine",
+      "quinoline",
+      "heterocyclic"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2026_054",
+    "pyq_year": 2026,
+    "original_q_number": 54,
+    "stem_preview": "A negative value of Hammett constant indicates the pres- ence of which of the fo",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutical_chemistry",
+    "predicted_topic": "pharmaceutical_chemistry__organic_chemistry__stereochemistry",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "hammett"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2024_107",
+    "pyq_year": 2024,
+    "original_q_number": 107,
+    "stem_preview": "Chikusetsu saponin is present in",
+    "ground_truth_subject": "pharmacognosy",
+    "predicted_subject": "pharmacognosy",
+    "predicted_topic": "pharmacognosy__pharmacognosy__glycosides",
+    "predicted_decision": "CONFIDENT_MATCH",
+    "confidence_score": 4,
+    "matched_terms": [
+      "saponin",
+      "liquorice"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2024_037",
+    "pyq_year": 2024,
+    "original_q_number": 37,
+    "stem_preview": "Which of the following steps are NOT involved in gravimetric analysis",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutical_chemistry",
+    "predicted_topic": "pharmaceutical_chemistry__pharmaceutical_analysis__precipitation_titrations",
+    "predicted_decision": "CONFIDENT_MATCH",
+    "confidence_score": 4,
+    "matched_terms": [
+      "precipitation",
+      "indicator"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2026_046",
+    "pyq_year": 2026,
+    "original_q_number": 46,
+    "stem_preview": "Which of the following is formed when benzene is oxi- dized by V\u2082O\u2085 in the prese",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 1,
+    "matched_terms": [
+      "acid"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2024_063",
+    "pyq_year": 2024,
+    "original_q_number": 63,
+    "stem_preview": "The below structure represent the drug",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmacology",
+    "predicted_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "pharmacology"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2025_095",
+    "pyq_year": 2025,
+    "original_q_number": 95,
+    "stem_preview": "The Kozeny - Carman equation is related to:",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__heat_transfer",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 3,
+    "matched_terms": [
+      "heat",
+      "transfer"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2026_017",
+    "pyq_year": 2026,
+    "original_q_number": 17,
+    "stem_preview": "In tube-dilution test for bactericidal agents, stainless steel cylinders are ino",
+    "ground_truth_subject": "other_subjects",
+    "predicted_subject": "pharmaceutical_chemistry",
+    "predicted_topic": "pharmaceutical_chemistry__pharmaceutical_chemistry__various_classes_of_therapeutic_agents",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "agents"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2026_016",
+    "pyq_year": 2026,
+    "original_q_number": 16,
+    "stem_preview": "Presence of electron-withdrawing groups on the phenothi- azine ring enhances ant",
+    "ground_truth_subject": "pharmacology",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__physical_pharmacy__solubility",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "solubility"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2026_049",
+    "pyq_year": 2026,
+    "original_q_number": 49,
+    "stem_preview": "Predict the number of fundamental vibrational modes in the hydrogen sulfide mole",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 0,
+    "matched_terms": [],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2026_115",
+    "pyq_year": 2026,
+    "original_q_number": 115,
+    "stem_preview": "The central compartment in a two-compartmental model represents one of the follo",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmacology",
+    "predicted_topic": "pharmacology__pharmacology__pharmacology_of_central_nervous_system",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "central"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2026_123",
+    "pyq_year": 2026,
+    "original_q_number": 123,
+    "stem_preview": "Equilibrium distillation is also known as:",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__distillation",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "distillation"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2024_014",
+    "pyq_year": 2024,
+    "original_q_number": 14,
+    "stem_preview": "Which of the following mills is based on the mecha \u0002 nism of impact and attritio",
+    "ground_truth_subject": "other_subjects",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__distillation",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 3,
+    "matched_terms": [
+      "hammer mill"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2024_069",
+    "pyq_year": 2024,
+    "original_q_number": 69,
+    "stem_preview": "Which of the following is first prodrug for sulfon \u0002 amide",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 0,
+    "matched_terms": [],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2023_028",
+    "pyq_year": 2023,
+    "original_q_number": 28,
+    "stem_preview": "What is the percentage of alcohol in a mixture ob \u0002 tained by mixing 5 L of 25%,",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__mixing",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "mixing"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2019_103",
+    "pyq_year": 2019,
+    "original_q_number": 103,
+    "stem_preview": "Oxazole is prepared by the condensation of B-amino carbonyl compound with",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutical_chemistry",
+    "predicted_topic": "pharmaceutical_chemistry__organic_chemistry__carbonyl_chemistry",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "carbonyl"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2022_086",
+    "pyq_year": 2022,
+    "original_q_number": 86,
+    "stem_preview": "Identify the major product formed in the below reac \u0002 tion from the four choices",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 1,
+    "matched_terms": [
+      "acid"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2017_019",
+    "pyq_year": 2017,
+    "original_q_number": 19,
+    "stem_preview": "Chapter IV of which law states that experiment on animals are avoided wherever i",
+    "ground_truth_subject": "other_subjects",
+    "predicted_subject": "other_subjects",
+    "predicted_topic": "other_subjects__pharmaceutical_jurisprudence__medicinal_and_toilet_preparations_act_1955",
+    "predicted_decision": "CONFIDENT_MATCH",
+    "confidence_score": 13,
+    "matched_terms": [
+      "pharmacy act",
+      "drugs and cosmetics act",
+      "medicinal",
+      "1955",
+      "preparations",
+      "toilet"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2018_072",
+    "pyq_year": 2018,
+    "original_q_number": 72,
+    "stem_preview": "Charaka, a physician belonged to which system of medicine",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutics__ayurvedic_system_of_medicine",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "medicine"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2017_004",
+    "pyq_year": 2017,
+    "original_q_number": 4,
+    "stem_preview": "[Weight in pound/150] \u00d7 Adult Dose =Child dose. The above formula is known as _i",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 0,
+    "matched_terms": [],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2019_087",
+    "pyq_year": 2019,
+    "original_q_number": 87,
+    "stem_preview": "Gabriel ring closure method is employed for the syn \u0002 thesis of",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 0,
+    "matched_terms": [],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2020_077",
+    "pyq_year": 2020,
+    "original_q_number": 77,
+    "stem_preview": "The major property of Ayurvedic herbs \"Rasa\" indicates",
+    "ground_truth_subject": "pharmacology",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutics__ayurvedic_system_of_medicine",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "ayurvedic"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2022_115",
+    "pyq_year": 2022,
+    "original_q_number": 115,
+    "stem_preview": "Boricacid with molecular weight 61.83 was partitioned between water and amyl alc",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutics__ophthalmic_preparations",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 3,
+    "matched_terms": [
+      "boric acid"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2020_111",
+    "pyq_year": 2020,
+    "original_q_number": 111,
+    "stem_preview": "The solvent used in NMR spectroscopy with the high \u0002 est level of deuteriation a",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutical_chemistry",
+    "predicted_topic": "pharmaceutical_chemistry__pharmaceutical_analysis__general_principles_of_spectroscopy",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 3,
+    "matched_terms": [
+      "spectroscopy",
+      "nmr"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2018_008",
+    "pyq_year": 2018,
+    "original_q_number": 8,
+    "stem_preview": "Which of the following is not patentable in India as per the Patents Act 1970",
+    "ground_truth_subject": "other_subjects",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__automated_process_control_systems",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "process"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2021_054",
+    "pyq_year": 2021,
+    "original_q_number": 54,
+    "stem_preview": "To monitor the safety of the new drug under actual conditions of use in large nu",
+    "ground_truth_subject": "other_subjects",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__industrial_hazards_and_safety_precautions",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "safety"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2017_119",
+    "pyq_year": 2017,
+    "original_q_number": 119,
+    "stem_preview": "Following are the list of various inherited metabolic disorders that can affect ",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmacology",
+    "predicted_topic": "pharmacology__clinical_pharmacy_and_therapeutics__therapy_for_malignant_and_skin_disorders",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "disorders"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2023_007",
+    "pyq_year": 2023,
+    "original_q_number": 7,
+    "stem_preview": "Indicate which of the following molecular character \u0002 istics will be expected to",
+    "ground_truth_subject": "pharmaceutics",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__physical_pharmacy__surface_and_interfacial_phenomena",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "surface"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2017_065",
+    "pyq_year": 2017,
+    "original_q_number": 65,
+    "stem_preview": "Which of the following gums is obtained from endo \u0002 sperm",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 0,
+    "matched_terms": [],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2017_116",
+    "pyq_year": 2017,
+    "original_q_number": 116,
+    "stem_preview": "Product , ______and Promotion are s of marketing",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__automated_process_control_systems",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "process"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2022_045",
+    "pyq_year": 2022,
+    "original_q_number": 45,
+    "stem_preview": "Which of the following is a malignant type of tumor",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmacology",
+    "predicted_topic": "pharmacology__pharmacology__chemotherapy_of_malignant_diseases",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "malignant"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2018_124",
+    "pyq_year": 2018,
+    "original_q_number": 124,
+    "stem_preview": "Motif is represented by",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 0,
+    "matched_terms": [],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2020_080",
+    "pyq_year": 2020,
+    "original_q_number": 80,
+    "stem_preview": "Which of the following powder shows the greatest degree of dustability",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutics__stability_of_formulated_products",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "stability"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2021_118",
+    "pyq_year": 2021,
+    "original_q_number": 118,
+    "stem_preview": "Which of the following microbial form listed below, exhibits the highest level o",
+    "ground_truth_subject": "other_subjects",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__dehumidification_and_humidity_control",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "control"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2014_045",
+    "pyq_year": 2014,
+    "original_q_number": 45,
+    "stem_preview": "Following is an example of preformed and not lipid derived mast cell mediator of",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__automated_process_control_systems",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "process"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2015_040",
+    "pyq_year": 2015,
+    "original_q_number": 40,
+    "stem_preview": "If average weight of tablet is 450 mg, what is the % of difference allowed",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 0,
+    "matched_terms": [],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2015_103",
+    "pyq_year": 2015,
+    "original_q_number": 103,
+    "stem_preview": "Tailing of peak in GLC is reduced by",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 0,
+    "matched_terms": [],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2010_066",
+    "pyq_year": 2010,
+    "original_q_number": 66,
+    "stem_preview": "Triterpenoids are active constituents of",
+    "ground_truth_subject": "pharmacognosy",
+    "predicted_subject": "pharmacognosy",
+    "predicted_topic": "pharmacognosy__pharmacognosy__volatile_oils",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "terpenoid"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2014_107",
+    "pyq_year": 2014,
+    "original_q_number": 107,
+    "stem_preview": "Anticholinesterase agent quaternary ammonium com \u0002 pound, intermediate-duration ",
+    "ground_truth_subject": "pharmacology",
+    "predicted_subject": "pharmacology",
+    "predicted_topic": "pharmacology__anatomy_physiology_and_health_education__autonomic_nervous_system",
+    "predicted_decision": "CONFIDENT_MATCH",
+    "confidence_score": 6,
+    "matched_terms": [
+      "myasthenia",
+      "physostigmine",
+      "neostigmine"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2016_108",
+    "pyq_year": 2016,
+    "original_q_number": 108,
+    "stem_preview": "Identify the named reaction",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutics__pharmaceutical_plant_location_layout",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "pharmaceutical"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2016_098",
+    "pyq_year": 2016,
+    "original_q_number": 98,
+    "stem_preview": "The IUPAC name, 4-Amino-N (5, 6-dimethoxy-4-py \u0002 rimidinly) benzenesulfonamide b",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__dispensing__patent_and_generic_products_study",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "generic"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2013_027",
+    "pyq_year": 2013,
+    "original_q_number": 27,
+    "stem_preview": "Description Parts of solvent required 1. Very Soluble [P] 10-30 2. Spirangly sol",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 0,
+    "matched_terms": [],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2016_103",
+    "pyq_year": 2016,
+    "original_q_number": 103,
+    "stem_preview": "Methenamine used for UTI is a prodrug. How and to what is is converted into",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutical_chemistry",
+    "predicted_topic": "pharmaceutical_chemistry__organic_chemistry__amino_acids_and_proteins",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "amino"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2013_005",
+    "pyq_year": 2013,
+    "original_q_number": 5,
+    "stem_preview": "Study the following statements [P] Fixatives in perfumes decrease rate of evapor",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__evaporation",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "evaporation"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2014_115",
+    "pyq_year": 2014,
+    "original_q_number": 115,
+    "stem_preview": "In IR spectra, C-H stretching of aklehyde at",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 0,
+    "matched_terms": [],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2012_141",
+    "pyq_year": 2012,
+    "original_q_number": 141,
+    "stem_preview": "Read the following statements carefully about non-aqueous titrations [P] Acetate",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutical_chemistry",
+    "predicted_topic": "pharmaceutical_chemistry__pharmaceutical_analysis__acid_base_titrations",
+    "predicted_decision": "CONFIDENT_MATCH",
+    "confidence_score": 4,
+    "matched_terms": [
+      "base",
+      "acid",
+      "titrations"
+    ],
+    "is_correct_subject": true
+  },
+  {
+    "question_id": "pyq_gpat_2014_029",
+    "pyq_year": 2014,
+    "original_q_number": 29,
+    "stem_preview": "______system does not have orifice to release the drug",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmaceutics",
+    "predicted_topic": "pharmaceutics__pharmaceutical_engineering__dehumidification_and_humidity_control",
+    "predicted_decision": "NEEDS_REVIEW",
+    "confidence_score": 2,
+    "matched_terms": [
+      "control"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2016_047",
+    "pyq_year": 2016,
+    "original_q_number": 47,
+    "stem_preview": "Pernicious anemia is a form of which class of anemia",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": null,
+    "predicted_topic": "UNMAPPED_PYQ",
+    "predicted_decision": "UNMAPPED_PYQ",
+    "confidence_score": 1,
+    "matched_terms": [
+      "form"
+    ],
+    "is_correct_subject": false
+  },
+  {
+    "question_id": "pyq_gpat_2010_031",
+    "pyq_year": 2010,
+    "original_q_number": 31,
+    "stem_preview": "Sildenafil is used for treatment of one of the following Disorders",
+    "ground_truth_subject": "pharmaceutical_chemistry",
+    "predicted_subject": "pharmacology",
+    "predicted_topic": "pharmacology__pharmacology__pharmacology_of_cardiovascular_system_drugs",
+    "predicted_decision": "CONFIDENT_MATCH",
+    "confidence_score": 4,
+    "matched_terms": [
+      "hypertension",
+      "angina"
+    ],
+    "is_correct_subject": false
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "id": 66,
+    "source_node": "Atropine",
+    "relationship": "ANTAGONIZES",
+    "target_node": "Muscarinic Receptors",
+    "page_number": 19,
+    "evidence_summary": "Blocks acetylcholine at M1-M5 muscarinic receptors"
+  },
+  {
+    "id": 67,
+    "source_node": "Atropine",
+    "relationship": "CAUSES",
+    "target_node": "Mydriasis and Cycloplegia",
+    "page_number": 19,
+    "evidence_summary": "Relaxes sphincter pupillae and ciliary muscle"
+  },
+  {
+    "id": 68,
+    "source_node": "Atropine",
+    "relationship": "CAUSES",
+    "target_node": "Tachycardia",
+    "page_number": 19,
+    "evidence_summary": "Blocks vagal inhibitory M2 receptors on SA node"
+  },
+  {
+    "id": 69,
+    "source_node": "Atropine",
+    "relationship": "CONTRAINDICATED_IN",
+    "target_node": "Narrow-Angle Glaucoma",
+    "page_number": 19,
+    "evidence_summary": "Pupillary dilation blocks iridocorneal drainage angle"
+  },
+  {
+    "id": 70,
+    "source_node": "Atropine",
+    "relationship": "TREATS",
+    "target_node": "Organophosphate Poisoning",
+    "page_number": 20,
+    "evidence_summary": "Reverses muscarinic hyperstimulation toxidrome"
+  },
+  {
+    "id": 71,
+    "source_node": "Organophosphates",
+    "relationship": "PRODUCES",
+    "target_node": "Organophosphate Poisoning",
+    "page_number": 20,
+    "evidence_summary": "Irreversible inhibition of AChE leads to lethal acetylcholine overload"
+  },
+  {
+    "id": 72,
+    "source_node": "Organophosphates",
+    "relationship": "IRREVERSIBLY_INHIBITS",
+    "target_node": "Acetylcholinesterase",
+    "page_number": 20,
+    "evidence_summary": "Phosphorylates esteratic site causing acetylcholine accumulation"
+  },
+  {
+    "id": 73,
+    "source_node": "Acetylcholinesterase",
+    "relationship": "HYDROLYZES",
+    "target_node": "Acetylcholine",
+    "page_number": 17,
+    "evidence_summary": "Rapidly terminates cholinergic neurotransmission"
+  },
+  {
+    "id": 74,
+    "source_node": "Pralidoxime (2-PAM)",
+    "relationship": "REACTIVATES",
+    "target_node": "Acetylcholinesterase",
+    "page_number": 20,
+    "evidence_summary": "Nucleophilic oxime removes phosphate group before aging"
+  },
+  {
+    "id": 75,
+    "source_node": "Pralidoxime (2-PAM)",
+    "relationship": "TREATS",
+    "target_node": "Organophosphate Poisoning",
+    "page_number": 20,
+    "evidence_summary": "Specific chemical antidote for enzyme reactivation"
+  },
+  {
+    "id": 76,
+    "source_node": "Digoxin",
+    "relationship": "INHIBITS",
+    "target_node": "Na+/K+ ATPase Pump",
+    "page_number": 29,
+    "evidence_summary": "Binds alpha subunit of myocardial sarcolemmal pump"
+  },
+  {
+    "id": 77,
+    "source_node": "Na+/K+ ATPase Pump",
+    "relationship": "DRIVES",
+    "target_node": "Na+/Ca2+ Exchanger (NCX)",
+    "page_number": 29,
+    "evidence_summary": "Extracellular Na+ gradient extrudes intracellular calcium"
+  },
+  {
+    "id": 78,
+    "source_node": "Intracellular Calcium",
+    "relationship": "PRODUCES",
+    "target_node": "Positive Inotropy",
+    "page_number": 29,
+    "evidence_summary": "Increases actin-myosin cross-bridge cycling and contractility"
+  },
+  {
+    "id": 79,
+    "source_node": "Digoxin",
+    "relationship": "TREATS",
+    "target_node": "Congestive Heart Failure",
+    "page_number": 29,
+    "evidence_summary": "Improves cardiac output and relieves congestion"
+  },
+  {
+    "id": 80,
+    "source_node": "Furosemide",
+    "relationship": "INHIBITS",
+    "target_node": "NKCC2 Symporter",
+    "page_number": 33,
+    "evidence_summary": "Blocks Na+/K+/2Cl- cotransporter in luminal membrane"
+  },
+  {
+    "id": 81,
+    "source_node": "NKCC2 Symporter",
+    "relationship": "LOCATED_IN",
+    "target_node": "Thick Ascending Limb of Henle",
+    "page_number": 33,
+    "evidence_summary": "Major site of solute reabsorption and osmotic gradient generation"
+  },
+  {
+    "id": 82,
+    "source_node": "Furosemide",
+    "relationship": "TREATS",
+    "target_node": "Acute Pulmonary Edema & Hypertension",
+    "page_number": 33,
+    "evidence_summary": "High-ceiling diuresis reduces intravascular volume"
+  },
+  {
+    "id": 83,
+    "source_node": "Propranolol",
+    "relationship": "BLOCKS",
+    "target_node": "Beta-1 Adrenergic Receptors",
+    "page_number": 29,
+    "evidence_summary": "Decreases heart rate, contractility, and renin release"
+  },
+  {
+    "id": 84,
+    "source_node": "Propranolol",
+    "relationship": "BLOCKS",
+    "target_node": "Beta-2 Adrenergic Receptors",
+    "page_number": 29,
+    "evidence_summary": "Inhibits sympathetic bronchodilation"
+  },
+  {
+    "id": 85,
+    "source_node": "Propranolol",
+    "relationship": "CONTRAINDICATED_IN",
+    "target_node": "Bronchial Asthma",
+    "page_number": 29,
+    "evidence_summary": "Beta-2 blockade precipitates severe bronchospasm"
+  },
+  {
+    "id": 86,
+    "source_node": "Captopril",
+    "relationship": "INHIBITS",
+    "target_node": "Angiotensin Converting Enzyme (ACE)",
+    "page_number": 14,
+    "evidence_summary": "Blocks conversion of Angiotensin I to Angiotensin II"
+  },
+  {
+    "id": 87,
+    "source_node": "Angiotensin Converting Enzyme (ACE)",
+    "relationship": "DEGRADES",
+    "target_node": "Bradykinin & Substance P",
+    "page_number": 14,
+    "evidence_summary": "Kininase II activity metabolizes inflammatory kinins"
+  },
+  {
+    "id": 88,
+    "source_node": "Bradykinin & Substance P",
+    "relationship": "CAUSES",
+    "target_node": "Persistent Dry Cough",
+    "page_number": 14,
+    "evidence_summary": "Accumulation irritates pulmonary sensory nerve endings"
+  },
+  {
+    "id": 89,
+    "source_node": "Levodopa",
+    "relationship": "PRECURSOR_OF",
+    "target_node": "Dopamine",
+    "page_number": 95,
+    "evidence_summary": "Crosses BBB via LAT1 and decarboxylates to dopamine"
+  },
+  {
+    "id": 90,
+    "source_node": "Peripheral DOPA Decarboxylase",
+    "relationship": "DEGRADES",
+    "target_node": "Levodopa",
+    "page_number": 95,
+    "evidence_summary": "Converts levodopa to dopamine peripherally before reaching brain"
+  },
+  {
+    "id": 91,
+    "source_node": "Carbidopa",
+    "relationship": "INHIBITS",
+    "target_node": "Peripheral DOPA Decarboxylase",
+    "page_number": 95,
+    "evidence_summary": "Cannot cross BBB; restricts action strictly to periphery"
+  },
+  {
+    "id": 92,
+    "source_node": "Carbidopa",
+    "relationship": "POTENTIATES",
+    "target_node": "Levodopa CNS Delivery",
+    "page_number": 95,
+    "evidence_summary": "Drastically increases brain levodopa entry and reduces cardiac side effects"
+  },
+  {
+    "id": 93,
+    "source_node": "Dopamine",
+    "relationship": "STIMULATES",
+    "target_node": "Striatal D2 Receptors",
+    "page_number": 95,
+    "evidence_summary": "Restores basal ganglia signaling in substantia nigra lesions"
+  },
+  {
+    "id": 94,
+    "source_node": "Levodopa",
+    "relationship": "TREATS",
+    "target_node": "Parkinson's Disease",
+    "page_number": 95,
+    "evidence_summary": "Primary replacement therapy for dopaminergic motor symptoms"
+  },
+  {
+    "id": 95,
+    "source_node": "Benzodiazepines",
+    "relationship": "BINDS",
+    "target_node": "GABA-A Receptor Allosteric Site",
+    "page_number": 93,
+    "evidence_summary": "Increases channel opening frequency in presence of GABA"
+  },
+  {
+    "id": 96,
+    "source_node": "Barbiturates",
+    "relationship": "BINDS",
+    "target_node": "GABA-A Receptor Channel Pore",
+    "page_number": 93,
+    "evidence_summary": "Increases channel open duration and opens pore at high doses"
+  },
+  {
+    "id": 97,
+    "source_node": "Phenytoin",
+    "relationship": "BLOCKS",
+    "target_node": "Voltage-Gated Sodium Channels",
+    "page_number": 92,
+    "evidence_summary": "Prolongs inactive state in high-frequency firing neurons"
+  },
+  {
+    "id": 98,
+    "source_node": "Phenytoin",
+    "relationship": "TREATS",
+    "target_node": "Generalized Tonic-Clonic Seizures",
+    "page_number": 92,
+    "evidence_summary": "Prevents sustained seizure propagation with saturation kinetics"
+  },
+  {
+    "id": 99,
+    "source_node": "Phenoxybenzamine",
+    "relationship": "BLOCKS",
+    "target_node": "Alpha-1 Adrenergic Receptors",
+    "page_number": 142,
+    "evidence_summary": "Irreversibly blocks vascular alpha-1 vasoconstriction"
+  },
+  {
+    "id": 100,
+    "source_node": "Adrenaline",
+    "relationship": "STIMULATES",
+    "target_node": "Beta-2 Adrenergic Receptors",
+    "page_number": 142,
+    "evidence_summary": "Produces skeletal muscle vasodilation"
+  },
+  {
+    "id": 101,
+    "source_node": "Beta-2 Adrenergic Receptors",
+    "relationship": "MEDIATES",
+    "target_node": "Dale Vasomotor Reversal",
+    "page_number": 142,
+    "evidence_summary": "Unmasked beta-2 vasodilation converts pressor response to depressor response"
+  },
+  {
+    "id": 102,
+    "source_node": "Phenoxybenzamine",
+    "relationship": "PRODUCES_WITH_ADRENALINE",
+    "target_node": "Dale Vasomotor Reversal",
+    "page_number": 142,
+    "evidence_summary": "Alpha blockade unmasks adrenaline beta-2 mediated hypotension"
+  },
+  {
+    "id": 103,
+    "source_node": "Propylthiouracil",
+    "relationship": "INHIBITS",
+    "target_node": "Thyroid Peroxidase",
+    "page_number": 254,
+    "evidence_summary": "Blocks iodination of tyrosine residues and coupling in thyroid gland"
+  },
+  {
+    "id": 104,
+    "source_node": "Propylthiouracil",
+    "relationship": "INHIBITS",
+    "target_node": "Peripheral 5'-Deiodinase",
+    "page_number": 254,
+    "evidence_summary": "Prevents peripheral conversion of T4 into active T3"
+  },
+  {
+    "id": 105,
+    "source_node": "Peripheral 5'-Deiodinase",
+    "relationship": "GENERATES",
+    "target_node": "Active Triiodothyronine (T3)",
+    "page_number": 254,
+    "evidence_summary": "Primary source of tissue T3 from circulating T4"
+  },
+  {
+    "id": 106,
+    "source_node": "Propylthiouracil",
+    "relationship": "TREATS",
+    "target_node": "Thyroid Storm",
+    "page_number": 254,
+    "evidence_summary": "Rapidly arrests new synthesis and peripheral active T3 formation in crisis"
+  },
+  {
+    "id": 107,
+    "source_node": "Metformin",
+    "relationship": "ACTIVATES",
+    "target_node": "AMPK (AMP-Activated Protein Kinase)",
+    "page_number": 278,
+    "evidence_summary": "Promotes phosphorylation of cellular energy sensor"
+  },
+  {
+    "id": 108,
+    "source_node": "AMPK (AMP-Activated Protein Kinase)",
+    "relationship": "INHIBITS",
+    "target_node": "Hepatic Gluconeogenesis",
+    "page_number": 278,
+    "evidence_summary": "Suppresses gluconeogenic enzymes PEPCK and G6Pase"
+  },
+  {
+    "id": 109,
+    "source_node": "Metformin",
+    "relationship": "TREATS",
+    "target_node": "Type 2 Diabetes Mellitus",
+    "page_number": 278,
+    "evidence_summary": "Lowers blood glucose without causing hypoglycemia or weight gain"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "question_id": "pyq_gpat_2024_113",
+    "gt_subject": "pharmacognosy",
+    "gt_topic": "pharmacognosy__pharmacognosy__introductory_pharmacognosy",
+    "gt_topic_name": "Introductory Pharmacognosy"
+  },
+  {
+    "question_id": "pyq_gpat_2026_069",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2026_014",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__physical_pharmacy__solubility",
+    "gt_topic_name": "Solubility"
+  },
+  {
+    "question_id": "pyq_gpat_2025_035",
+    "gt_subject": "other_subjects",
+    "gt_topic": "other_subjects__microbiology__introduction_to_microbiology",
+    "gt_topic_name": "Introduction to Microbiology"
+  },
+  {
+    "question_id": "pyq_gpat_2025_018",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2025_006",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__stereochemistry",
+    "gt_topic_name": "Stereochemistry"
+  },
+  {
+    "question_id": "pyq_gpat_2026_085",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2026_064",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2024_061",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2026_052",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2024_086",
+    "gt_subject": "other_subjects",
+    "gt_topic": "other_subjects__microbiology__immunology_and_health",
+    "gt_topic_name": "Immunology and Health"
+  },
+  {
+    "question_id": "pyq_gpat_2025_115",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2026_020",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2026_019",
+    "gt_subject": "other_subjects",
+    "gt_topic": "other_subjects__microbiology__sterilization_and_disinfection",
+    "gt_topic_name": "Sterilization and Disinfection"
+  },
+  {
+    "question_id": "pyq_gpat_2026_057",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2025_002",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2025_011",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__physical_pharmacy__micromeritics_and_powder_rheology",
+    "gt_topic_name": "Micromeritics and Powder Rheology"
+  },
+  {
+    "question_id": "pyq_gpat_2024_036",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2024_093",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2026_015",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__physical_pharmacy__buffers",
+    "gt_topic_name": "Buffers"
+  },
+  {
+    "question_id": "pyq_gpat_2024_071",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2026_116",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2024_118",
+    "gt_subject": "other_subjects",
+    "gt_topic": "other_subjects__microbiology__introduction_to_microbiology",
+    "gt_topic_name": "Introduction to Microbiology"
+  },
+  {
+    "question_id": "pyq_gpat_2025_112",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2025_004",
+    "gt_subject": "other_subjects",
+    "gt_topic": "other_subjects__microbiology__introduction_to_microbiology",
+    "gt_topic_name": "Introduction to Microbiology"
+  },
+  {
+    "question_id": "pyq_gpat_2020_121",
+    "gt_subject": "other_subjects",
+    "gt_topic": "other_subjects__microbiology__introduction_to_microbiology",
+    "gt_topic_name": "Introduction to Microbiology"
+  },
+  {
+    "question_id": "pyq_gpat_2018_021",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2021_060",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2023_008",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2017_086",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2022_048",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2017_016",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__physical_pharmacy__micromeritics_and_powder_rheology",
+    "gt_topic_name": "Micromeritics and Powder Rheology"
+  },
+  {
+    "question_id": "pyq_gpat_2020_089",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2020_001",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2022_042",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2022_114",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__physical_pharmacy__buffers",
+    "gt_topic_name": "Buffers"
+  },
+  {
+    "question_id": "pyq_gpat_2017_090",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__pharmaceutical_analysis__general_principles_of_spectroscopy",
+    "gt_topic_name": "General principles of spectroscopy"
+  },
+  {
+    "question_id": "pyq_gpat_2021_122",
+    "gt_subject": "pharmacognosy",
+    "gt_topic": "pharmacognosy__pharmacognosy__introductory_pharmacognosy",
+    "gt_topic_name": "Introductory Pharmacognosy"
+  },
+  {
+    "question_id": "pyq_gpat_2023_107",
+    "gt_subject": "pharmacognosy",
+    "gt_topic": "pharmacognosy__pharmacognosy__introductory_pharmacognosy",
+    "gt_topic_name": "Introductory Pharmacognosy"
+  },
+  {
+    "question_id": "pyq_gpat_2023_097",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2020_043",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2023_102",
+    "gt_subject": "other_subjects",
+    "gt_topic": "other_subjects__microbiology__introduction_to_microbiology",
+    "gt_topic_name": "Introduction to Microbiology"
+  },
+  {
+    "question_id": "pyq_gpat_2020_021",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__physical_pharmacy__solubility",
+    "gt_topic_name": "Solubility"
+  },
+  {
+    "question_id": "pyq_gpat_2020_005",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2018_036",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2021_045",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2023_047",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2017_051",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2019_007",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2019_089",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2015_011",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2013_037",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2016_085",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2012_097",
+    "gt_subject": "pharmacognosy",
+    "gt_topic": "pharmacognosy__pharmacognosy__introductory_pharmacognosy",
+    "gt_topic_name": "Introductory Pharmacognosy"
+  },
+  {
+    "question_id": "pyq_gpat_2014_070",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2011_029",
+    "gt_subject": "other_subjects",
+    "gt_topic": "other_subjects__microbiology__introduction_to_microbiology",
+    "gt_topic_name": "Introduction to Microbiology"
+  },
+  {
+    "question_id": "pyq_gpat_2011_019",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2013_019",
+    "gt_subject": "other_subjects",
+    "gt_topic": "other_subjects__microbiology__introduction_to_microbiology",
+    "gt_topic_name": "Introduction to Microbiology"
+  },
+  {
+    "question_id": "pyq_gpat_2012_126",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2015_084",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2010_018",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__capsules",
+    "gt_topic_name": "Capsules"
+  },
+  {
+    "question_id": "pyq_gpat_2016_076",
+    "gt_subject": "pharmacognosy",
+    "gt_topic": "pharmacognosy__pharmacognosy__introductory_pharmacognosy",
+    "gt_topic_name": "Introductory Pharmacognosy"
+  },
+  {
+    "question_id": "pyq_gpat_2016_050",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2011_064",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2015_122",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__biochemistry__vitamins",
+    "gt_topic_name": "Vitamins"
+  },
+  {
+    "question_id": "pyq_gpat_2010_091",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2014_066",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2016_086",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2014_002",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutics__pharmacy_profession",
+    "gt_topic_name": "Pharmacy Profession"
+  },
+  {
+    "question_id": "pyq_gpat_2016_111",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__pharmaceutical_analysis__chromatography",
+    "gt_topic_name": "Chromatography"
+  },
+  {
+    "question_id": "pyq_gpat_2013_040",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2014_053",
+    "gt_subject": "pharmacology",
+    "gt_topic": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "gt_topic_name": "Pharmacology of peripheral nervous system"
+  },
+  {
+    "question_id": "pyq_gpat_2013_117",
+    "gt_subject": "pharmaceutical_chemistry",
+    "gt_topic": "pharmaceutical_chemistry__organic_chemistry__general_principles",
+    "gt_topic_name": "General Principles"
+  },
+  {
+    "question_id": "pyq_gpat_2011_036",
+    "gt_subject": "pharmaceutics",
+    "gt_topic": "pharmaceutics__pharmaceutical_engineering__distillation",
+    "gt_topic_name": "Distillation"
+  },
+  {
+    "question_id": "pyq_gpat_2013_022",
+    "gt_subject": "other_subjects",
+    "gt_topic": "other_subjects__microbiology__introduction_to_microbiology",
+    "gt_topic_name": "Introduction to Microbiology"
+  }
+]

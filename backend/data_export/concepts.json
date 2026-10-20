@@ -1,0 +1,382 @@
+[
+  {
+    "id": "pk_absorption",
+    "name": "Drug Absorption",
+    "subject_id": "pharmacology",
+    "domain_id": "general_pharmacology",
+    "learning_objective": "EXPLAIN",
+    "importance_score": 9,
+    "difficulty": 6,
+    "status": "active"
+  },
+  {
+    "id": "pk_bioavailability",
+    "name": "Bioavailability",
+    "subject_id": "pharmacology",
+    "domain_id": "general_pharmacology",
+    "learning_objective": "CALCULATE",
+    "importance_score": 10,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "pk_volume_of_distribution",
+    "name": "Volume of Distribution",
+    "subject_id": "pharmacology",
+    "domain_id": "general_pharmacology",
+    "learning_objective": "CALCULATE",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "pk_plasma_protein_binding",
+    "name": "Plasma Protein Binding",
+    "subject_id": "pharmacology",
+    "domain_id": "general_pharmacology",
+    "learning_objective": "EXPLAIN",
+    "importance_score": 8,
+    "difficulty": 6,
+    "status": "active"
+  },
+  {
+    "id": "pk_biotransformation",
+    "name": "Biotransformation",
+    "subject_id": "pharmacology",
+    "domain_id": "general_pharmacology",
+    "learning_objective": "CLASSIFY",
+    "importance_score": 10,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "pk_clearance_and_elimination",
+    "name": "Clearance and Elimination",
+    "subject_id": "pharmacology",
+    "domain_id": "general_pharmacology",
+    "learning_objective": "CALCULATE",
+    "importance_score": 9,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "pd_receptor_types",
+    "name": "Receptor Types and Signal Transduction",
+    "subject_id": "pharmacology",
+    "domain_id": "general_pharmacology",
+    "learning_objective": "CLASSIFY",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "pd_agonism_and_efficacy",
+    "name": "Agonism, Affinity and Efficacy",
+    "subject_id": "pharmacology",
+    "domain_id": "general_pharmacology",
+    "learning_objective": "COMPARE",
+    "importance_score": 10,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "pd_antagonism",
+    "name": "Receptor Antagonism",
+    "subject_id": "pharmacology",
+    "domain_id": "general_pharmacology",
+    "learning_objective": "COMPARE",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "pd_therapeutic_index",
+    "name": "Therapeutic Index and Margin of Safety",
+    "subject_id": "pharmacology",
+    "domain_id": "general_pharmacology",
+    "learning_objective": "CALCULATE",
+    "importance_score": 9,
+    "difficulty": 6,
+    "status": "active"
+  },
+  {
+    "id": "ans_cholinergic_transmission",
+    "name": "Cholinergic Neurotransmission",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_pharmacology",
+    "learning_objective": "EXPLAIN",
+    "importance_score": 9,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "ans_cholinergic_receptors",
+    "name": "Cholinergic Receptors",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_pharmacology",
+    "learning_objective": "CLASSIFY",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "ans_cholinergic_agonists",
+    "name": "Cholinomimetic Agonists",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_pharmacology",
+    "learning_objective": "APPLY",
+    "importance_score": 9,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "ans_anticholinesterases",
+    "name": "Anticholinesterase Agents",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_pharmacology",
+    "learning_objective": "COMPARE",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "ans_antimuscarinics",
+    "name": "Muscarinic Receptor Antagonists",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_pharmacology",
+    "learning_objective": "APPLY",
+    "importance_score": 10,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "ans_organophosphate_poisoning",
+    "name": "Organophosphate Poisoning and Antidotes",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_pharmacology",
+    "learning_objective": "SOLVE_CASE",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "ans_adrenergic_transmission",
+    "name": "Adrenergic Neurotransmission",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_pharmacology",
+    "learning_objective": "EXPLAIN",
+    "importance_score": 9,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "ans_adrenergic_receptors",
+    "name": "Adrenergic Receptors",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_pharmacology",
+    "learning_objective": "CLASSIFY",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "ans_sympathomimetics",
+    "name": "Sympathomimetic Agonists",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_pharmacology",
+    "learning_objective": "APPLY",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "ans_alpha_blockers",
+    "name": "Alpha-Adrenergic Antagonists",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_pharmacology",
+    "learning_objective": "COMPARE",
+    "importance_score": 9,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "ans_beta_blockers",
+    "name": "Beta-Adrenergic Antagonists",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_pharmacology",
+    "learning_objective": "COMPARE",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "cvs_renin_angiotensin_system",
+    "name": "Renin-Angiotensin-Aldosterone System (RAAS)",
+    "subject_id": "pharmacology",
+    "domain_id": "cardiovascular_pharmacology",
+    "learning_objective": "EXPLAIN",
+    "importance_score": 10,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "cvs_ace_inhibitors_and_arbs",
+    "name": "ACE Inhibitors and ARBs",
+    "subject_id": "pharmacology",
+    "domain_id": "cardiovascular_pharmacology",
+    "learning_objective": "COMPARE",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "cvs_calcium_channel_blockers",
+    "name": "Calcium Channel Blockers",
+    "subject_id": "pharmacology",
+    "domain_id": "cardiovascular_pharmacology",
+    "learning_objective": "CLASSIFY",
+    "importance_score": 10,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "cvs_diuretics",
+    "name": "Diuretics",
+    "subject_id": "pharmacology",
+    "domain_id": "cardiovascular_pharmacology",
+    "learning_objective": "CLASSIFY",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "cvs_cardiac_glycosides",
+    "name": "Cardiac Glycosides and Heart Failure",
+    "subject_id": "pharmacology",
+    "domain_id": "cardiovascular_pharmacology",
+    "learning_objective": "EXPLAIN",
+    "importance_score": 10,
+    "difficulty": 9,
+    "status": "active"
+  },
+  {
+    "id": "cvs_antianginal_nitrates",
+    "name": "Organic Nitrates and Antianginals",
+    "subject_id": "pharmacology",
+    "domain_id": "cardiovascular_pharmacology",
+    "learning_objective": "APPLY",
+    "importance_score": 9,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "cvs_antiarrhythmics",
+    "name": "Antiarrhythmic Drugs",
+    "subject_id": "pharmacology",
+    "domain_id": "cardiovascular_pharmacology",
+    "learning_objective": "CLASSIFY",
+    "importance_score": 10,
+    "difficulty": 9,
+    "status": "active"
+  },
+  {
+    "id": "cns_gaba_sedative_hypnotics",
+    "name": "Sedative-Hypnotics and Anxiolytics",
+    "subject_id": "pharmacology",
+    "domain_id": "cns_pharmacology",
+    "learning_objective": "COMPARE",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "cns_antiepileptics",
+    "name": "Antiepileptic Drugs",
+    "subject_id": "pharmacology",
+    "domain_id": "cns_pharmacology",
+    "learning_objective": "APPLY",
+    "importance_score": 10,
+    "difficulty": 9,
+    "status": "active"
+  },
+  {
+    "id": "cns_antidepressants",
+    "name": "Antidepressants",
+    "subject_id": "pharmacology",
+    "domain_id": "cns_pharmacology",
+    "learning_objective": "CLASSIFY",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "cns_antipsychotics",
+    "name": "Antipsychotic Drugs",
+    "subject_id": "pharmacology",
+    "domain_id": "cns_pharmacology",
+    "learning_objective": "COMPARE",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "cns_antiparkinsonian",
+    "name": "Antiparkinsonian Drugs",
+    "subject_id": "pharmacology",
+    "domain_id": "cns_pharmacology",
+    "learning_objective": "APPLY",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "cns_opioid_analgesics",
+    "name": "Opioid Analgesics and Antagonists",
+    "subject_id": "pharmacology",
+    "domain_id": "cns_pharmacology",
+    "learning_objective": "EXPLAIN",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "ans_adrenergic_agonists",
+    "name": "Adrenergic Agonists & Sympathomimetics",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_nervous_system",
+    "learning_objective": "CLASSIFY",
+    "importance_score": 10,
+    "difficulty": 7,
+    "status": "active"
+  },
+  {
+    "id": "ans_adrenergic_antagonists",
+    "name": "Anti-Adrenergic Drugs & Alpha/Beta Blockers",
+    "subject_id": "pharmacology",
+    "domain_id": "autonomic_nervous_system",
+    "learning_objective": "APPLY",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "endo_thyroid_drugs",
+    "name": "Thyroid Hormones & Antithyroid Drugs",
+    "subject_id": "pharmacology",
+    "domain_id": "endocrine_pharmacology",
+    "learning_objective": "EXPLAIN",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  },
+  {
+    "id": "endo_antidiabetic_drugs",
+    "name": "Insulin & Oral Hypoglycemic Agents",
+    "subject_id": "pharmacology",
+    "domain_id": "endocrine_pharmacology",
+    "learning_objective": "APPLY",
+    "importance_score": 10,
+    "difficulty": 8,
+    "status": "active"
+  }
+]

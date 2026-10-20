@@ -1,0 +1,528 @@
+# GPAT 2027 / B.Pharm Knowledge Ontology — V0
+# STATUS:
+# - This is a candidate ontology for the learning system.
+# - It is NOT an assertion of the official GPAT 2027 blueprint.
+# - GPAT 2027 exam rules/weighting must be activated only after the official NBEMS bulletin.
+# - B.Pharm_2026_NEP2020 is treated as a current curriculum source/version, not automatically as GPAT 2027.
+#
+# Source hierarchy:
+#   official_exam > official_curriculum > primary_academic > standard_textbook >
+#   verified_educational > user_material > ai_generated
+#
+# Design principle:
+#   Subject -> Topic -> Subtopic -> Concept -> Claim/Question/Relationship
+#
+ontology_version: "0.1.0"
+
+exam:
+  id: gpat
+  name: "Graduate Pharmacy Aptitude Test"
+  target_year: 2027
+  authority: "NBEMS"
+  status: "pending_official_2027_bulletin"
+  provisional_reference:
+    exam_version: "GPAT_2026"
+    status: "baseline_only"
+
+curriculum_versions:
+  - id: bpharm_2026_nep2020
+    name: "B.Pharm 2026 — NEP 2020"
+    authority: "PCI"
+    effective_academic_year: "2026-27"
+    status: "official_curriculum_reference"
+
+  - id: gpat_2027
+    name: "GPAT 2027"
+    authority: "NBEMS"
+    status: "pending_official_bulletin"
+
+taxonomy:
+  subjects:
+
+    - id: pharmaceutical_chemistry
+      name: "Pharmaceutical Chemistry"
+      aliases:
+        - "Pharmaceutical Chemistry & Allied Subjects"
+        - "Medicinal Chemistry"
+        - "Pharmaceutical Analysis"
+      priority: high
+      domains:
+        - id: inorganic_pharmaceutical_chemistry
+          name: "Inorganic Pharmaceutical Chemistry"
+          topics:
+            - "Inorganic pharmaceutical agents"
+            - "Impurities and limit tests"
+            - "Medicinal inorganic compounds"
+            - "Gastrointestinal agents"
+            - "Topical agents"
+            - "Dental products"
+        - id: organic_pharmaceutical_chemistry
+          name: "Organic Pharmaceutical Chemistry"
+          topics:
+            - "Organic reactions"
+            - "Stereochemistry"
+            - "Heterocyclic chemistry"
+            - "Functional groups"
+            - "Synthetic transformations"
+            - "Reaction mechanisms"
+        - id: medicinal_chemistry
+          name: "Medicinal Chemistry"
+          topics:
+            - "Drug-receptor interactions"
+            - "Structure-activity relationships"
+            - "Pharmacophores"
+            - "Drug classes"
+            - "Lead optimization"
+            - "Prodrugs"
+            - "Bioisosterism"
+            - "Metabolism and biotransformation"
+        - id: pharmaceutical_analysis
+          name: "Pharmaceutical Analysis"
+          topics:
+            - "Errors and statistics"
+            - "Volumetric analysis"
+            - "Gravimetric analysis"
+            - "Electroanalytical methods"
+            - "Spectroscopy"
+            - "Chromatography"
+            - "Thermal analysis"
+            - "Validation"
+            - "Instrumental methods"
+        - id: biochemistry_chemistry_interface
+          name: "Biochemistry / Biomedical Chemistry"
+          topics:
+            - "Carbohydrates"
+            - "Lipids"
+            - "Proteins"
+            - "Nucleic acids"
+            - "Enzymes"
+            - "Metabolism"
+            - "Clinical biochemistry"
+
+    - id: pharmaceutics
+      name: "Pharmaceutics"
+      aliases:
+        - "Pharmaceutics & Allied Subjects"
+      priority: high
+      domains:
+        - id: physical_pharmacy
+          name: "Physical Pharmacy"
+          topics:
+            - "Solubility"
+            - "pH and buffers"
+            - "Surface and interfacial phenomena"
+            - "Rheology"
+            - "Colloids"
+            - "Micromeritics"
+            - "Complexation"
+            - "Diffusion"
+            - "Partitioning"
+        - id: dosage_forms
+          name: "Dosage Forms"
+          topics:
+            - "Tablets"
+            - "Capsules"
+            - "Powders and granules"
+            - "Liquid dosage forms"
+            - "Semisolids"
+            - "Parenterals"
+            - "Ophthalmic preparations"
+            - "Aerosols"
+        - id: formulation_science
+          name: "Formulation Science"
+          topics:
+            - "Preformulation"
+            - "Excipients"
+            - "Drug-excipient compatibility"
+            - "Stability"
+            - "Packaging"
+            - "Scale-up"
+        - id: biopharmaceutics
+          name: "Biopharmaceutics"
+          topics:
+            - "Absorption"
+            - "Distribution"
+            - "Bioavailability"
+            - "Bioequivalence"
+            - "Dissolution"
+            - "Pharmacokinetics"
+        - id: novel_drug_delivery
+          name: "Novel Drug Delivery Systems"
+          topics:
+            - "Controlled release"
+            - "Targeted delivery"
+            - "Transdermal systems"
+            - "Ocular delivery"
+            - "Nasal delivery"
+            - "Pulmonary delivery"
+            - "Nanoparticles"
+            - "Liposomes"
+            - "Microspheres"
+        - id: industrial_pharmacy
+          name: "Industrial Pharmacy"
+          topics:
+            - "Manufacturing processes"
+            - "Unit operations"
+            - "Process validation"
+            - "GMP"
+            - "Quality by design"
+            - "Scale-up and technology transfer"
+
+    - id: pharmacology
+      name: "Pharmacology"
+      aliases:
+        - "Pharmacology & Allied Subjects"
+      priority: high
+      domains:
+        - id: general_pharmacology
+          name: "General Pharmacology"
+          topics:
+            - "Pharmacokinetics"
+            - "Pharmacodynamics"
+            - "Dose-response relationships"
+            - "Drug-receptor interactions"
+            - "Adverse drug reactions"
+            - "Drug interactions"
+            - "Drug discovery and development"
+        - id: autonomic_pharmacology
+          name: "Autonomic Nervous System"
+          topics:
+            - "Cholinergic receptors"
+            - "Cholinergic agonists"
+            - "Anticholinergics"
+            - "Adrenergic receptors"
+            - "Adrenergic agonists"
+            - "Adrenergic antagonists"
+            - "Ganglion blockers"
+            - "Neuromuscular blockers"
+        - id: cns_pharmacology
+          name: "Central Nervous System"
+          topics:
+            - "Sedative-hypnotics"
+            - "Antiepileptics"
+            - "Antidepressants"
+            - "Antipsychotics"
+            - "Anxiolytics"
+            - "Opioids"
+            - "General anesthetics"
+            - "Parkinsonism"
+            - "Alzheimer disease"
+        - id: cardiovascular_pharmacology
+          name: "Cardiovascular System"
+          topics:
+            - "Antihypertensives"
+            - "Antianginal drugs"
+            - "Antiarrhythmics"
+            - "Heart failure"
+            - "Diuretics"
+            - "Anticoagulants"
+            - "Antiplatelet drugs"
+            - "Thrombolytics"
+        - id: endocrine_pharmacology
+          name: "Endocrine Pharmacology"
+          topics:
+            - "Insulin and antidiabetics"
+            - "Thyroid drugs"
+            - "Corticosteroids"
+            - "Sex hormones"
+            - "Contraceptives"
+            - "Drugs affecting bone metabolism"
+        - id: inflammation_and_immunity
+          name: "Inflammation and Immunity"
+          topics:
+            - "NSAIDs"
+            - "Anti-inflammatory drugs"
+            - "Antihistamines"
+            - "Immunosuppressants"
+            - "Immunomodulators"
+        - id: chemotherapy
+          name: "Chemotherapy"
+          topics:
+            - "Antibacterial drugs"
+            - "Antitubercular drugs"
+            - "Antileprotic drugs"
+            - "Antifungal drugs"
+            - "Antiviral drugs"
+            - "Antiprotozoal drugs"
+            - "Anthelmintics"
+            - "Anticancer drugs"
+        - id: toxicology
+          name: "Toxicology"
+          topics:
+            - "General toxicology"
+            - "Poisoning"
+            - "Antidotes"
+            - "Organophosphorus poisoning"
+            - "Heavy metal poisoning"
+            - "Drug toxicity"
+
+    - id: pharmacognosy
+      name: "Pharmacognosy"
+      aliases:
+        - "Pharmacognosy & Allied Subjects"
+      priority: high
+      domains:
+        - id: crude_drugs
+          name: "Crude Drugs"
+          topics:
+            - "Biological sources"
+            - "Geographical sources"
+            - "Cultivation"
+            - "Collection"
+            - "Processing"
+            - "Storage"
+            - "Evaluation"
+        - id: pharmacognostic_groups
+          name: "Natural Product Classes"
+          topics:
+            - "Alkaloids"
+            - "Glycosides"
+            - "Volatile oils"
+            - "Tannins"
+            - "Resins"
+            - "Flavonoids"
+            - "Terpenoids"
+            - "Steroids"
+            - "Saponins"
+        - id: phytochemistry
+          name: "Phytochemistry"
+          topics:
+            - "Extraction"
+            - "Isolation"
+            - "Purification"
+            - "Identification"
+            - "Chromatographic methods"
+        - id: herbal_drugs
+          name: "Herbal Drugs and Natural Products"
+          topics:
+            - "Herbal formulations"
+            - "Nutraceuticals"
+            - "Traditional medicines"
+            - "Herbal-drug interactions"
+            - "Quality control"
+        - id: biotechnology_in_pharmacognosy
+          name: "Biotechnology in Pharmacognosy"
+          topics:
+            - "Plant tissue culture"
+            - "Secondary metabolite production"
+            - "Genetic approaches"
+
+    - id: pharmaceutical_biology
+      name: "Pharmaceutical Biology & Foundational Sciences"
+      aliases:
+        - "Other B.Pharm Subjects"
+      priority: medium
+      domains:
+        - id: anatomy_physiology
+          name: "Human Anatomy and Physiology"
+          topics:
+            - "Cell and tissues"
+            - "Blood"
+            - "Nervous system"
+            - "Cardiovascular system"
+            - "Respiratory system"
+            - "Digestive system"
+            - "Renal system"
+            - "Endocrine system"
+            - "Reproductive system"
+        - id: pathophysiology
+          name: "Pathophysiology"
+          topics:
+            - "Cell injury"
+            - "Inflammation"
+            - "Neoplasia"
+            - "Cardiovascular disorders"
+            - "Respiratory disorders"
+            - "Gastrointestinal disorders"
+            - "Endocrine disorders"
+            - "Renal disorders"
+        - id: microbiology
+          name: "Pharmaceutical Microbiology"
+          topics:
+            - "Microbial classification"
+            - "Sterilization"
+            - "Culture methods"
+            - "Immunology"
+            - "Microbial genetics"
+            - "Pharmaceutical contamination"
+        - id: biotechnology
+          name: "Pharmaceutical Biotechnology"
+          topics:
+            - "Recombinant DNA"
+            - "Fermentation"
+            - "Biologics"
+            - "Monoclonal antibodies"
+            - "Vaccines"
+            - "Biosimilars"
+        - id: biostatistics
+          name: "Biostatistics and Research"
+          topics:
+            - "Descriptive statistics"
+            - "Probability"
+            - "Distributions"
+            - "Hypothesis testing"
+            - "Correlation"
+            - "Regression"
+            - "Experimental design"
+
+    - id: pharmacy_practice
+      name: "Pharmacy Practice & Healthcare"
+      priority: medium
+      domains:
+        - id: clinical_pharmacy
+          name: "Clinical Pharmacy"
+          topics:
+            - "Patient medication history"
+            - "Drug information"
+            - "Medication errors"
+            - "Therapeutic drug monitoring"
+            - "Clinical pharmacokinetics"
+        - id: pharmacovigilance
+          name: "Pharmacovigilance"
+          topics:
+            - "ADR classification"
+            - "Causality assessment"
+            - "Signal detection"
+            - "Risk management"
+        - id: patient_care
+          name: "Patient Care"
+          topics:
+            - "Patient counselling"
+            - "Medication adherence"
+            - "Health education"
+            - "Communication"
+        - id: pharmacoepidemiology
+          name: "Pharmacoepidemiology and Pharmacoeconomics"
+          topics:
+            - "Drug utilization"
+            - "Outcomes research"
+            - "Cost-effectiveness"
+            - "Cost-benefit analysis"
+
+    - id: regulatory_quality
+      name: "Regulatory Affairs & Quality"
+      priority: medium
+      domains:
+        - id: quality_assurance
+          name: "Quality Assurance"
+          topics:
+            - "QA and QC"
+            - "GMP"
+            - "GLP"
+            - "Validation"
+            - "Documentation"
+            - "Deviation"
+            - "CAPA"
+        - id: pharmaceutical_jurisprudence
+          name: "Pharmaceutical Jurisprudence"
+          topics:
+            - "Drugs and Cosmetics Act"
+            - "Pharmacy Act"
+            - "NDPS Act"
+            - "Schedule classifications"
+            - "Regulatory authorities"
+            - "Professional ethics"
+
+    - id: emerging_interdisciplinary
+      name: "Emerging / Interdisciplinary Pharmacy"
+      priority: low
+      status: "curriculum_candidate; GPAT relevance pending official blueprint"
+      domains:
+        - id: pharmaceutical_ai
+          name: "AI and Digital Technologies in Pharmacy"
+          topics:
+            - "AI fundamentals"
+            - "Machine learning concepts"
+            - "AI in drug discovery"
+            - "AI in pharmacology"
+            - "AI in quality assurance"
+            - "AI-enabled healthcare analytics"
+        - id: python_data
+          name: "Python and Data Analytics"
+          topics:
+            - "Python fundamentals"
+            - "Data handling"
+            - "Visualization"
+            - "Statistical computing"
+            - "Pharmaceutical data analysis"
+        - id: precision_medicine
+          name: "Precision Medicine"
+          topics:
+            - "Pharmacogenomics"
+            - "Biomarkers"
+            - "Personalized therapy"
+        - id: nanotechnology
+          name: "Nanotechnology"
+          topics:
+            - "Nanomaterials"
+            - "Nanocarriers"
+            - "Pharmaceutical applications"
+
+concept_schema:
+  required_fields:
+    - id
+    - name
+    - subject_id
+    - domain_id
+    - learning_objective
+    - importance_score
+    - difficulty
+    - status
+  optional_fields:
+    - aliases
+    - prerequisites
+    - common_misconceptions
+    - exam_relevance
+    - source_ids
+
+relationship_types:
+  - PREREQUISITE_OF
+  - RELATED_TO
+  - PART_OF
+  - CAUSES
+  - TREATS
+  - INHIBITS
+  - ACTIVATES
+  - ANTAGONIZES
+  - AGONIZES
+  - CONTRASTS_WITH
+  - CONFUSED_WITH
+  - EXAMPLE_OF
+  - DERIVED_FROM
+
+learning_objectives:
+  - RECOGNIZE
+  - DEFINE
+  - EXPLAIN
+  - COMPARE
+  - APPLY
+  - CALCULATE
+  - IDENTIFY_STRUCTURE
+  - IDENTIFY_MECHANISM
+  - SOLVE_CASE
+  - INTERPRET_DATA
+  - RECALL_FROM_CUE
+  - DISCRIMINATE_BETWEEN_SIMILAR_CONCEPTS
+
+question_types:
+  - MCQ
+  - SHORT_RECALL
+  - FILL_BLANK
+  - TRUE_FALSE
+  - MECHANISM
+  - COMPARISON
+  - CLINICAL_SCENARIO
+  - NUMERICAL
+  - IMAGE_IDENTIFICATION
+  - STRUCTURE_IDENTIFICATION
+  - REVERSE_RECALL
+  - PYQ_STYLE
+
+authority:
+  official_exam: 5
+  official_curriculum: 5
+  primary_academic: 4
+  standard_textbook: 3
+  verified_educational: 2
+  user_material: 1
+  ai_generated: 0

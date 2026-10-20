@@ -1,0 +1,20 @@
+[
+  {
+    "id": "doc_pharmacology_complete",
+    "filename": "Pharmacology-complete.pdf",
+    "title": "Pharmacology Key Points for GPAT (Dr Rajesh Choudhary)",
+    "authority_level": 3,
+    "total_pages": 121,
+    "status": "completed",
+    "created_at": "2026-09-11 22:39:57"
+  },
+  {
+    "id": "doc_kd_tripathi",
+    "filename": "Essentials of Medical Pharmacology.pdf",
+    "title": "Essentials of Medical Pharmacology (KD Tripathi - 7th/8th Edition)",
+    "authority_level": 4,
+    "total_pages": 1020,
+    "status": "completed",
+    "created_at": "2026-09-11 22:55:12"
+  }
+]

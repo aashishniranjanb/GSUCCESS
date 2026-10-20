@@ -1,0 +1,49 @@
+{
+  "total_sample": 55,
+  "confident_count": 9,
+  "confident_correct": 7,
+  "precision": 0.7777777777777778,
+  "coverage": 0.16363636363636364,
+  "confusion_matrix": {
+    "pharmaceutics": {
+      "pharmaceutics": 3,
+      "pharmacology": 0,
+      "pharmaceutical_chemistry": 0,
+      "pharmacognosy": 0,
+      "other_subjects": 0,
+      "UNMAPPED_OR_REVIEW": 5
+    },
+    "pharmacology": {
+      "pharmaceutics": 0,
+      "pharmacology": 1,
+      "pharmaceutical_chemistry": 0,
+      "pharmacognosy": 0,
+      "other_subjects": 0,
+      "UNMAPPED_OR_REVIEW": 11
+    },
+    "pharmaceutical_chemistry": {
+      "pharmaceutics": 0,
+      "pharmacology": 1,
+      "pharmaceutical_chemistry": 1,
+      "pharmacognosy": 0,
+      "other_subjects": 0,
+      "UNMAPPED_OR_REVIEW": 12
+    },
+    "pharmacognosy": {
+      "pharmaceutics": 0,
+      "pharmacology": 0,
+      "pharmaceutical_chemistry": 0,
+      "pharmacognosy": 1,
+      "other_subjects": 0,
+      "UNMAPPED_OR_REVIEW": 2
+    },
+    "other_subjects": {
+      "pharmaceutics": 0,
+      "pharmacology": 0,
+      "pharmaceutical_chemistry": 1,
+      "pharmacognosy": 0,
+      "other_subjects": 1,
+      "UNMAPPED_OR_REVIEW": 16
+    }
+  }
+}

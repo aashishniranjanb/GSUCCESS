@@ -1,0 +1,6 @@
+endpoint,http_method,caller_component,gap_category,severity,mitigation_action,status
+/api/study/mission/{id}/complete,POST,frontend_modal,CONTRACT_NORMALIZATION,LOW,Normalized to existing session item completion endpoint,RESOLVED
+/api/mock/{id},GET,frontend_mock_runner,PARAM_FORMAT,LOW,Supported with both string id and integer fallback,RESOLVED
+/api/admin/metrics,GET,admin_portal,AUTH_HEADER,MEDIUM,Protected with X-Admin-Secret header and HTTP Basic Auth,RESOLVED
+/api/study/sync,POST,sw_offline_queue,IDEMPOTENT_RETRY,HIGH,Protected by synced_client_events unique hash constraint,RESOLVED
+/media/mcqs/{file},GET,pwa_question_player,MIME_TYPE,HIGH,Mounted to static file provider with image/png content-type,RESOLVED

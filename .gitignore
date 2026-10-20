@@ -1,0 +1,52 @@
+# Python virtual environments & bytecode
+.venv/
+env/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Node & Next.js build artifacts
+web/node_modules/
+node_modules/
+web/.next/
+.next/
+web/out/
+out/
+.turbo/
+web/.turbo/
+
+# Testing, coverage & caches
+.pytest_cache/
+.coverage
+htmlcov/
+.hypothesis/
+.cache/
+
+# Large binary textbooks & reference PDFs (>10MB)
+*.pdf
+BASELINE DOCS/*.pdf
+PharmacyIndiaNotes/
+
+# SQLite databases & backups (preserve schema.sql and migration definitions)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.db.backup*
+backups/*.db
+
+# Sensitive local configurations
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.pfx
+
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

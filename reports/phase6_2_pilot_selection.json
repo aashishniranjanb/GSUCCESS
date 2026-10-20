@@ -1,0 +1,402 @@
+[
+  {
+    "question_id": "pyq_gpat_2026_061",
+    "subject_id": "pharmaceutical_chemistry",
+    "topic_id": "pharmaceutical_chemistry__organic_chemistry__stereochemistry",
+    "question_text": "Of the four asymmetric centers in quinine, the absolute configuration around C-8 and C-9 is:",
+    "options": [
+      "8S, 9R",
+      "8S, 9S",
+      "8R, 9R",
+      "8R, 9S"
+    ],
+    "correct_option": 0,
+    "pyq_year": 2026,
+    "paper_id": "GPAT_QPAK_2026",
+    "original_q_number": 61
+  },
+  {
+    "question_id": "pyq_gpat_2025_019",
+    "subject_id": "pharmaceutical_chemistry",
+    "topic_id": "pharmaceutical_chemistry__organic_chemistry__stereochemistry",
+    "question_text": "n-Butane exists in how many numbers of conforma \u0002 tional isomers:",
+    "options": [
+      "One anti and one gauche",
+      "One anti and two gauche",
+      "Two anti and two gauche",
+      "Two anti and one gauche"
+    ],
+    "correct_option": 1,
+    "pyq_year": 2025,
+    "paper_id": "GPAT_QPAK_2025",
+    "original_q_number": 19
+  },
+  {
+    "question_id": "pyq_gpat_2026_075",
+    "subject_id": "pharmaceutical_chemistry",
+    "topic_id": "pharmaceutical_chemistry__organic_chemistry__heterocyclic_chemistry",
+    "question_text": "Nalidixic acid, a synthetic antibacterial agent, belongs to which of the following class of heterocyclic chemical group:",
+    "options": [
+      "Naphthyridine-4-one",
+      "Pyrrolopyrimidine-3-one",
+      "Quinoline-4-one",
+      "Quinoline-3-one"
+    ],
+    "correct_option": 0,
+    "pyq_year": 2026,
+    "paper_id": "GPAT_QPAK_2026",
+    "original_q_number": 75
+  },
+  {
+    "question_id": "pyq_gpat_2026_054",
+    "subject_id": "pharmaceutical_chemistry",
+    "topic_id": "pharmaceutical_chemistry__organic_chemistry__stereochemistry",
+    "question_text": "A negative value of Hammett constant indicates the pres- ence of which of the following chemical group:",
+    "options": [
+      "Hydrophilic",
+      "Electron donor",
+      "Hydrophobic",
+      "Electron acceptor"
+    ],
+    "correct_option": 1,
+    "pyq_year": 2026,
+    "paper_id": "GPAT_QPAK_2026",
+    "original_q_number": 54
+  },
+  {
+    "question_id": "pyq_gpat_2024_037",
+    "subject_id": "pharmaceutical_chemistry",
+    "topic_id": "pharmaceutical_chemistry__pharmaceutical_analysis__non_aqueous_titrations",
+    "question_text": "Which of the following steps are NOT involved in gravimetric analysis",
+    "options": [
+      "Filtration",
+      "Precipitation",
+      "Indicator",
+      "D"
+    ],
+    "correct_option": 3,
+    "pyq_year": 2024,
+    "paper_id": "GPAT_QPAK_2024",
+    "original_q_number": 37
+  },
+  {
+    "question_id": "pyq_gpat_2025_003",
+    "subject_id": "pharmaceutics",
+    "topic_id": "pharmaceutics__pharmaceutical_engineering__distillation",
+    "question_text": "Which is an example of continuous shelf moving bed dryer:",
+    "options": [
+      "Vacuum Tumble Dryer",
+      "Turbo Tray Dryer",
+      "Tray Dryer",
+      "Spray Dryer"
+    ],
+    "correct_option": 1,
+    "pyq_year": 2025,
+    "paper_id": "GPAT_QPAK_2025",
+    "original_q_number": 3
+  },
+  {
+    "question_id": "pyq_gpat_2025_095",
+    "subject_id": "pharmaceutics",
+    "topic_id": "pharmaceutics__pharmaceutical_engineering__filtration_and_centrifugation",
+    "question_text": "The Kozeny - Carman equation is related to:",
+    "options": [
+      "Pressure drop in turbulent flow",
+      "Heat transfer coefficient",
+      "Permeability to particle size and bed porosity",
+      "Sedimentation velocity"
+    ],
+    "correct_option": 2,
+    "pyq_year": 2025,
+    "paper_id": "GPAT_QPAK_2025",
+    "original_q_number": 95
+  },
+  {
+    "question_id": "pyq_gpat_2026_123",
+    "subject_id": "pharmaceutics",
+    "topic_id": "pharmaceutics__pharmaceutical_engineering__distillation",
+    "question_text": "Equilibrium distillation is also known as:",
+    "options": [
+      "Simple distillation",
+      "Azeotropic distillation",
+      "Molecular distillation",
+      "Flash distillation"
+    ],
+    "correct_option": 3,
+    "pyq_year": 2026,
+    "paper_id": "GPAT_QPAK_2026",
+    "original_q_number": 123
+  },
+  {
+    "question_id": "pyq_gpat_2024_014",
+    "subject_id": "pharmaceutics",
+    "topic_id": "pharmaceutics__pharmaceutical_engineering__size_reduction",
+    "question_text": "Which of the following mills is based on the mecha \u0002 nism of impact and attrition for size reduction",
+    "options": [
+      "Roller mill",
+      "Colloid mill",
+      "Hammer mill",
+      "Fluid energy mill"
+    ],
+    "correct_option": 3,
+    "pyq_year": 2024,
+    "paper_id": "GPAT_QPAK_2024",
+    "original_q_number": 14
+  },
+  {
+    "question_id": "pyq_gpat_2020_077",
+    "subject_id": "pharmaceutics",
+    "topic_id": "pharmaceutics__pharmaceutics__ayurvedic_system_of_medicine",
+    "question_text": "The major property of Ayurvedic herbs \"Rasa\" indicates",
+    "options": [
+      "Taste",
+      "Post digestive effect",
+      "Potency",
+      "Physicochemical properties"
+    ],
+    "correct_option": 0,
+    "pyq_year": 2020,
+    "paper_id": "GPAT_QPAK_2020",
+    "original_q_number": 77
+  },
+  {
+    "question_id": "pyq_gpat_2026_013",
+    "subject_id": "pharmacognosy",
+    "topic_id": "pharmacognosy__pharmacognosy__adulteration_and_evaluation_of_crude_drugs",
+    "question_text": "WHO recommends the use of chromatographic tech- niques in herbal medicines mainly for:",
+    "options": [
+      "Fingerprint profiling",
+      "Detection of moisture content",
+      "Detection of microbial load",
+      "Packaging analysis"
+    ],
+    "correct_option": 0,
+    "pyq_year": 2026,
+    "paper_id": "GPAT_QPAK_2026",
+    "original_q_number": 13
+  },
+  {
+    "question_id": "pyq_gpat_2024_107",
+    "subject_id": "pharmacognosy",
+    "topic_id": "pharmacognosy__pharmacognosy__glycosides",
+    "question_text": "Chikusetsu saponin is present in",
+    "options": [
+      "Senega",
+      "Ginseng",
+      "Quillia",
+      "Liquorice"
+    ],
+    "correct_option": 1,
+    "pyq_year": 2024,
+    "paper_id": "GPAT_QPAK_2024",
+    "original_q_number": 107
+  },
+  {
+    "question_id": "pyq_gpat_2023_007",
+    "subject_id": "pharmacognosy",
+    "topic_id": "pharmacognosy__pharmacognosy__crude_extract",
+    "question_text": "Indicate which of the following molecular character \u0002 istics will be expected to increase the solubility of a simple solute in an aqueous solution",
+    "options": [
+      "A high melting point",
+      "The presence of polar group",
+      "A high molecular surface area",
+      "A high boiling point"
+    ],
+    "correct_option": 1,
+    "pyq_year": 2023,
+    "paper_id": "GPAT_QPAK_2023_II",
+    "original_q_number": 7
+  },
+  {
+    "question_id": "pyq_gpat_2024_088",
+    "subject_id": "pharmacology",
+    "topic_id": "pharmacology__anatomy_physiology_and_health_education__cell_physiology",
+    "question_text": "The visible coloured ring of the eye is called",
+    "options": [
+      "Lens",
+      "Iris",
+      "Cornea",
+      "Retina"
+    ],
+    "correct_option": 1,
+    "pyq_year": 2024,
+    "paper_id": "GPAT_QPAK_2024",
+    "original_q_number": 88
+  },
+  {
+    "question_id": "pyq_gpat_2024_063",
+    "subject_id": "pharmacology",
+    "topic_id": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "question_text": "The below structure represent the drug",
+    "options": [
+      "Salbutamol OH",
+      "Amphetamine HO NH",
+      "Norepinephrine",
+      "Isoprenaline HO Pharmacology"
+    ],
+    "correct_option": 3,
+    "pyq_year": 2024,
+    "paper_id": "GPAT_QPAK_2024",
+    "original_q_number": 63
+  },
+  {
+    "question_id": "pyq_gpat_2026_017",
+    "subject_id": "pharmacology",
+    "topic_id": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "question_text": "In tube-dilution test for bactericidal agents, stainless steel cylinders are inoculated with test organism and exposed for:",
+    "options": [
+      "Zone of inhibition",
+      "Colony count reduction",
+      "Minimum bactericidal concentration",
+      "Time-kill curve"
+    ],
+    "correct_option": 2,
+    "pyq_year": 2026,
+    "paper_id": "GPAT_QPAK_2026",
+    "original_q_number": 17
+  },
+  {
+    "question_id": "pyq_gpat_2024_069",
+    "subject_id": "pharmacology",
+    "topic_id": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "question_text": "Which of the following is first prodrug for sulfon \u0002 amide",
+    "options": [
+      "Sulfatrim",
+      "Sulfamidochrysodine",
+      "Trimethoprim",
+      "Prontosil"
+    ],
+    "correct_option": 3,
+    "pyq_year": 2024,
+    "paper_id": "GPAT_QPAK_2024",
+    "original_q_number": 69
+  },
+  {
+    "question_id": "pyq_gpat_2018_008",
+    "subject_id": "pharmacology",
+    "topic_id": "pharmacology__pharmacology__pharmacology_of_peripheral_nervous_system",
+    "question_text": "Which of the following is not patentable in India as per the Patents Act 1970",
+    "options": [
+      "New product",
+      "New process",
+      "New use of existing drug",
+      "New process for existing drug"
+    ],
+    "correct_option": 2,
+    "pyq_year": 2018,
+    "paper_id": "GPAT_QPAK_2018",
+    "original_q_number": 8
+  },
+  {
+    "question_id": "pyq_gpat_2026_118",
+    "subject_id": "other_subjects",
+    "topic_id": "other_subjects__pharmaceutical_jurisprudence__drugs_and_cosmetics_act_1940",
+    "question_text": "The Central Drugs Standard Control Organization (CDSCO) in India functions under the control of:",
+    "options": [
+      "NITI Aayog",
+      "Ministry of Health and Family Welfare",
+      "Ministry of Home Affairs",
+      "Ministry of Chemicals and Fertilizers Section \u2013 E 7"
+    ],
+    "correct_option": 1,
+    "pyq_year": 2026,
+    "paper_id": "GPAT_QPAK_2026",
+    "original_q_number": 118
+  },
+  {
+    "question_id": "pyq_gpat_2026_049",
+    "subject_id": "other_subjects",
+    "topic_id": "other_subjects__pharmaceutical_jurisprudence__general_principles_of_pharmaceutical_jurisprudence",
+    "question_text": "Predict the number of fundamental vibrational modes in the hydrogen sulfide molecule:",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct_option": 1,
+    "pyq_year": 2026,
+    "paper_id": "GPAT_QPAK_2026",
+    "original_q_number": 49
+  },
+  {
+    "question_id": "pyq_gpat_2026_115",
+    "subject_id": "other_subjects",
+    "topic_id": "other_subjects__pharmaceutical_jurisprudence__general_principles_of_pharmaceutical_jurisprudence",
+    "question_text": "The central compartment in a two-compartmental model represents one of the following organs:",
+    "options": [
+      "Tendons",
+      "Heart",
+      "Ligaments",
+      "Bone"
+    ],
+    "correct_option": 1,
+    "pyq_year": 2026,
+    "paper_id": "GPAT_QPAK_2026",
+    "original_q_number": 115
+  },
+  {
+    "question_id": "pyq_gpat_2023_028",
+    "subject_id": "other_subjects",
+    "topic_id": "other_subjects__pharmaceutical_jurisprudence__general_principles_of_pharmaceutical_jurisprudence",
+    "question_text": "What is the percentage of alcohol in a mixture ob \u0002 tained by mixing 5 L of 25%, 3 L of 40% and 2 L of 15% alcohol?",
+    "options": [
+      "27.5% v/v",
+      "30.5% v/v",
+      "25.5% v/v",
+      "26.5% v/v"
+    ],
+    "correct_option": 0,
+    "pyq_year": 2023,
+    "paper_id": "GPAT_QPAK_2023_I",
+    "original_q_number": 28
+  },
+  {
+    "question_id": "pyq_gpat_2017_019",
+    "subject_id": "other_subjects",
+    "topic_id": "other_subjects__pharmaceutical_jurisprudence__medicinal_and_toilet_preparations_act_1955",
+    "question_text": "Chapter IV of which law states that experiment on animals are avoided wherever it is possible to do so; as for example; in medical schools, hospitals, colleges and the like, if other teaching devices such as books, models, films and the. like, may equally suffice. Also, that experiments on large animals are avoided when it is possible to achieve the same results by experiments upon small laboratory animals like guinea \u2013 pigs, rabbits, frogs and rats",
+    "options": [
+      "The prevention of cruelty to animals act, 1960",
+      "The Pharmacy Act, 1948",
+      "Drugs and Cosmetics Act, 1940",
+      "Medicinal and Toilet Preparations Act, 1955"
+    ],
+    "correct_option": 0,
+    "pyq_year": 2017,
+    "paper_id": "GPAT_QPAK_2017",
+    "original_q_number": 19
+  },
+  {
+    "question_id": "pyq_gpat_2026_034",
+    "subject_id": "pharmacognosy",
+    "topic_id": "pharmacognosy__pharmacognosy__general_pharmacognosy",
+    "question_text": "Why does caffeine not give a precipitate in general alkaloidal tests?",
+    "options": [
+      "Because it is an acridine derivative",
+      "Because it is an indole derivative",
+      "Because it is a purine derivative",
+      "Because it is an imidazole derivative"
+    ],
+    "correct_option": 2,
+    "pyq_year": 2026,
+    "paper_id": "GPAT_QPAK_2026",
+    "original_q_number": 34
+  },
+  {
+    "question_id": "pyq_gpat_2025_022",
+    "subject_id": "pharmacognosy",
+    "topic_id": "pharmacognosy__pharmacognosy__general_pharmacognosy",
+    "question_text": "Choose the correct statements regarding Tannins from the following: A) Tannin solution precipitate alkaloids B) Hydrolysable tannins produces gallic and ellagic acid by acid or enzyme hydrolysis C) Condensed tannins are converted into red colored substance known as phlobaphenes on treatment with acid or enzymes D) Tannins are insoluble in water",
+    "options": [
+      "Only B & C",
+      "Only A",
+      "Only A and D",
+      "Only A, B & C"
+    ],
+    "correct_option": 3,
+    "pyq_year": 2025,
+    "paper_id": "GPAT_QPAK_2025",
+    "original_q_number": 22
+  }
+]

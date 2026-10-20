@@ -1,0 +1,277 @@
+[
+  {
+    "id": "Captopril",
+    "name": "Captopril",
+    "node_type": "concept"
+  },
+  {
+    "id": "Phenoxybenzamine",
+    "name": "Phenoxybenzamine",
+    "node_type": "concept"
+  },
+  {
+    "id": "Alpha-1 Adrenergic Receptors",
+    "name": "Alpha-1 Adrenergic Receptors",
+    "node_type": "concept"
+  },
+  {
+    "id": "Organophosphates",
+    "name": "Organophosphates",
+    "node_type": "concept"
+  },
+  {
+    "id": "Phenytoin",
+    "name": "Phenytoin",
+    "node_type": "concept"
+  },
+  {
+    "id": "Carbidopa",
+    "name": "Carbidopa",
+    "node_type": "concept"
+  },
+  {
+    "id": "Benzodiazepines",
+    "name": "Benzodiazepines",
+    "node_type": "concept"
+  },
+  {
+    "id": "Metformin",
+    "name": "Metformin",
+    "node_type": "concept"
+  },
+  {
+    "id": "Dale Vasomotor Reversal",
+    "name": "Dale Vasomotor Reversal",
+    "node_type": "concept"
+  },
+  {
+    "id": "Striatal D2 Receptors",
+    "name": "Striatal D2 Receptors",
+    "node_type": "concept"
+  },
+  {
+    "id": "AMPK (AMP-Activated Protein Kinase)",
+    "name": "AMPK (AMP-Activated Protein Kinase)",
+    "node_type": "concept"
+  },
+  {
+    "id": "Na+/K+ ATPase Pump",
+    "name": "Na+/K+ ATPase Pump",
+    "node_type": "concept"
+  },
+  {
+    "id": "Furosemide",
+    "name": "Furosemide",
+    "node_type": "concept"
+  },
+  {
+    "id": "Angiotensin Converting Enzyme (ACE)",
+    "name": "Angiotensin Converting Enzyme (ACE)",
+    "node_type": "concept"
+  },
+  {
+    "id": "Muscarinic Receptors",
+    "name": "Muscarinic Receptors",
+    "node_type": "concept"
+  },
+  {
+    "id": "Bradykinin & Substance P",
+    "name": "Bradykinin & Substance P",
+    "node_type": "concept"
+  },
+  {
+    "id": "Barbiturates",
+    "name": "Barbiturates",
+    "node_type": "concept"
+  },
+  {
+    "id": "Positive Inotropy",
+    "name": "Positive Inotropy",
+    "node_type": "concept"
+  },
+  {
+    "id": "Beta-1 Adrenergic Receptors",
+    "name": "Beta-1 Adrenergic Receptors",
+    "node_type": "concept"
+  },
+  {
+    "id": "Adrenaline",
+    "name": "Adrenaline",
+    "node_type": "concept"
+  },
+  {
+    "id": "NKCC2 Symporter",
+    "name": "NKCC2 Symporter",
+    "node_type": "concept"
+  },
+  {
+    "id": "Organophosphate Poisoning",
+    "name": "Organophosphate Poisoning",
+    "node_type": "concept"
+  },
+  {
+    "id": "Digoxin",
+    "name": "Digoxin",
+    "node_type": "concept"
+  },
+  {
+    "id": "Generalized Tonic-Clonic Seizures",
+    "name": "Generalized Tonic-Clonic Seizures",
+    "node_type": "concept"
+  },
+  {
+    "id": "Acute Pulmonary Edema & Hypertension",
+    "name": "Acute Pulmonary Edema & Hypertension",
+    "node_type": "concept"
+  },
+  {
+    "id": "GABA-A Receptor Channel Pore",
+    "name": "GABA-A Receptor Channel Pore",
+    "node_type": "concept"
+  },
+  {
+    "id": "Peripheral DOPA Decarboxylase",
+    "name": "Peripheral DOPA Decarboxylase",
+    "node_type": "concept"
+  },
+  {
+    "id": "Narrow-Angle Glaucoma",
+    "name": "Narrow-Angle Glaucoma",
+    "node_type": "concept"
+  },
+  {
+    "id": "Levodopa",
+    "name": "Levodopa",
+    "node_type": "concept"
+  },
+  {
+    "id": "Thyroid Peroxidase",
+    "name": "Thyroid Peroxidase",
+    "node_type": "concept"
+  },
+  {
+    "id": "Beta-2 Adrenergic Receptors",
+    "name": "Beta-2 Adrenergic Receptors",
+    "node_type": "concept"
+  },
+  {
+    "id": "Bronchial Asthma",
+    "name": "Bronchial Asthma",
+    "node_type": "concept"
+  },
+  {
+    "id": "Tachycardia",
+    "name": "Tachycardia",
+    "node_type": "concept"
+  },
+  {
+    "id": "GABA-A Receptor Allosteric Site",
+    "name": "GABA-A Receptor Allosteric Site",
+    "node_type": "concept"
+  },
+  {
+    "id": "Levodopa CNS Delivery",
+    "name": "Levodopa CNS Delivery",
+    "node_type": "concept"
+  },
+  {
+    "id": "Propylthiouracil",
+    "name": "Propylthiouracil",
+    "node_type": "concept"
+  },
+  {
+    "id": "Peripheral 5'-Deiodinase",
+    "name": "Peripheral 5'-Deiodinase",
+    "node_type": "concept"
+  },
+  {
+    "id": "Atropine",
+    "name": "Atropine",
+    "node_type": "concept"
+  },
+  {
+    "id": "Hepatic Gluconeogenesis",
+    "name": "Hepatic Gluconeogenesis",
+    "node_type": "concept"
+  },
+  {
+    "id": "Acetylcholinesterase",
+    "name": "Acetylcholinesterase",
+    "node_type": "concept"
+  },
+  {
+    "id": "Persistent Dry Cough",
+    "name": "Persistent Dry Cough",
+    "node_type": "concept"
+  },
+  {
+    "id": "Propranolol",
+    "name": "Propranolol",
+    "node_type": "concept"
+  },
+  {
+    "id": "Intracellular Calcium",
+    "name": "Intracellular Calcium",
+    "node_type": "concept"
+  },
+  {
+    "id": "Type 2 Diabetes Mellitus",
+    "name": "Type 2 Diabetes Mellitus",
+    "node_type": "concept"
+  },
+  {
+    "id": "Acetylcholine",
+    "name": "Acetylcholine",
+    "node_type": "concept"
+  },
+  {
+    "id": "Parkinson's Disease",
+    "name": "Parkinson's Disease",
+    "node_type": "concept"
+  },
+  {
+    "id": "Active Triiodothyronine (T3)",
+    "name": "Active Triiodothyronine (T3)",
+    "node_type": "concept"
+  },
+  {
+    "id": "Na+/Ca2+ Exchanger (NCX)",
+    "name": "Na+/Ca2+ Exchanger (NCX)",
+    "node_type": "concept"
+  },
+  {
+    "id": "Congestive Heart Failure",
+    "name": "Congestive Heart Failure",
+    "node_type": "concept"
+  },
+  {
+    "id": "Voltage-Gated Sodium Channels",
+    "name": "Voltage-Gated Sodium Channels",
+    "node_type": "concept"
+  },
+  {
+    "id": "Dopamine",
+    "name": "Dopamine",
+    "node_type": "concept"
+  },
+  {
+    "id": "Thyroid Storm",
+    "name": "Thyroid Storm",
+    "node_type": "concept"
+  },
+  {
+    "id": "Pralidoxime (2-PAM)",
+    "name": "Pralidoxime (2-PAM)",
+    "node_type": "concept"
+  },
+  {
+    "id": "Mydriasis and Cycloplegia",
+    "name": "Mydriasis and Cycloplegia",
+    "node_type": "concept"
+  },
+  {
+    "id": "Thick Ascending Limb of Henle",
+    "name": "Thick Ascending Limb of Henle",
+    "node_type": "concept"
+  }
+]

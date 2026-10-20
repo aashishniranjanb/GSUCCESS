@@ -1,0 +1,11 @@
+persona_id,persona_name,starting_state,action_taken,resulting_candidate_type,reason_codes,fsrs_stability_days,mastery_state_transition,idempotent
+1,new_learner,"0 attempts, unassessed concepts",request_daily_mission,NEW_LEARNING,HIGH_YIELD_SYLLABUS_CONCEPT,N/A,UNASSESSED,true
+2,overdue_reviews,"FSRS due < now",request_daily_mission,DUE_REVIEW,OVERDUE_FSRS_REVIEW,3.0,IN_PROGRESS,true
+3,repeated_misconception,"2x wrong distractor, conf=5",request_daily_mission,TARGETED_REPAIR,RECURRING_MISCONCEPTION_TRAP,0.25,MISCONCEPTION_TRAP,true
+4,overconfident_wrong_answer,"conf=5, incorrect option",record_attempt,N/A,OVERCONFIDENT_MISCONCEPTION,0.21,WEAK,true
+5,low_confidence_correct_answer,"conf=1, correct option",record_attempt,N/A,FRAGILE_KNOWLEDGE,1.5,DEVELOPING,true
+6,demonstrated_mastery,"4x correct, spaced intervals",progress_audit,N/A,MASTERY_RETENTION_VERIFIED,15.0,DEMONSTRATED_MASTERY,true
+7,incomplete_mission_resume,"active session exists",get_or_create_daily_session,PRESERVED_ACTIVE_MIX,ACTIVE_SESSION_RESUMED,unchanged,in_progress,true
+8,offline_sync_replay,"queued client events batch",sync_offline_attempts,N/A,OFFLINE_SYNC_IDEMPOTENT,preserved,preserved,true
+9,empty_eligible_question_pool,"0 items due in review mode",request_daily_mission,NEW_LEARNING,FALLBACK_HIGH_YIELD_PRACTICE,N/A,UNASSESSED,true
+10,unmapped_topic_questions,"unmapped question pool",request_daily_mission,NEW_LEARNING,HIGH_YIELD_SYLLABUS_CONCEPT,N/A,UNASSESSED,true
